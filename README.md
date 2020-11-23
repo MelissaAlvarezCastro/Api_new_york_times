@@ -13,8 +13,8 @@ Se va a utilizar la Api de NEW YORK TIMES para realizar el proyecto final de BI,
 
 ### [ENDPOINTS](https://developer.nytimes.com/docs/archive-product/1/overview)
 
-Method | Endpoint | Descripcion |
-|---|---|---|
-|  |  |  |
-| | | |
-| | | |
+| Method | Obtener | Endpoint | Formato datos | Descripcion
+|---|---|---|---|---|
+| GET | Archivo | [click aqui] (https://developer.nytimes.com/docs/archive-product/1/overview) | json | Todos los articulos del año y mes seleccionado del New York Times |
+| GET | Libros | [click aqui] (https://developer.nytimes.com/docs/books-product/1/overview) | json | Lista de libros vendidos del New York Times |
+| GET | Mas Populares | [click aqui] (https://developer.nytimes.com/docs/most-popular-product/1/overview) | json | Articulos mas populares del New York Times |
