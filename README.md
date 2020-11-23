@@ -11,7 +11,7 @@ Universidad del Quindio, Programa de Ingenieria de Sistemas y Computación
 
 Se va a utilizar la Api de NEW YORK TIMES para realizar el proyecto final de BI, en esta se puede consultar noticias.
 
-###[ENDPOINTS](https://developer.nytimes.com/docs/archive-product/1/overview)
+### [ENDPOINTS](https://developer.nytimes.com/docs/archive-product/1/overview)
 
 Method | Endpoint | Descripcion |
 |---|---|---|
