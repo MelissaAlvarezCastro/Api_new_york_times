@@ -5,8 +5,10 @@
 
 import requests
 import json
+import boto3
 
 key = "kbxT5wfzUZXcLkbSzMYLeuZ2MLp5zdDr"
+archivos = []
 
 def executeListName():
   requestUrl = "https://api.nytimes.com/svc/books/v3/lists/names.json?api-key=" + key
@@ -16,7 +18,11 @@ def executeListName():
 
   request_list = requests.get(requestUrl, headers=requestHeaders)
   request_list_json = request_list.json()
-  with open("List_name.json", "w") as file:
+
+  nombre_archivo = "List_name"
+  archivos.append(nombre_archivo)
+
+  with open(nombre_archivo+".json", "w") as file:
     json.dump(request_list_json, file, indent=4)
 
   request_Array = request_list_json["results"]
@@ -34,7 +40,11 @@ def executeArchivo(year, month):
 
   request_archive = requests.get(requestUrl, headers=requestHeaders)
   request_archive_json = request_archive.json()
-  with open("Archivo_"+year+"_"+month+".json", "w") as file:
+
+  nombre_archivo = "Archivo_"+year+"_"+month
+  archivos.append(nombre_archivo)
+
+  with open(nombre_archivo+".json", "w") as file:
     json.dump(request_archive_json, file, indent=4)
 
 
@@ -46,7 +56,11 @@ def executeMasVendido(lists_name, date):
 
   request_MasVendido = requests.get(requestUrl, headers=requestHeaders)
   request_json = request_MasVendido.json()
-  with open("Libros_"+date+".json", "w") as file:
+
+  nombre_archivo = "Libros_"+date
+  archivos.append(nombre_archivo)
+
+  with open(nombre_archivo+".json", "w") as file:
     json.dump(request_json, file, indent=4)
 
 
@@ -58,7 +72,11 @@ def executePublicados(date):
 
   request_Publicados = requests.get(requestUrl, headers=requestHeaders)
   request_Publicados_json = request_Publicados.json()
-  with open("Publicado_"+date+".json", "w") as file:
+
+  nombre_archivo = "Publicado_"+date
+  archivos.append(nombre_archivo)
+
+  with open(nombre_archivo+".json", "w") as file:
     json.dump(request_Publicados_json, file, indent=4)
 
 
@@ -71,19 +89,31 @@ def executeMasPopulares(periodo):
   requestUrlEnviados = "https://api.nytimes.com/svc/mostpopular/v2/emailed/"+periodo+".json?api-key=" + key
   request_enviados = requests.get(requestUrlEnviados, headers=requestHeaders)
   request_enivados_json = request_enviados.json()
-  with open("Mas_populares_enviados.json", "w") as file:
+
+  nombre_archivo = "Mas_populares_enviados"
+  archivos.append(nombre_archivo)
+
+  with open(nombre_archivo+".json", "w") as file:
     json.dump(request_enivados_json, file, indent=4)
 
   requestUrlCompartidos = "https://api.nytimes.com/svc/mostpopular/v2/shared/30.json?api-key=" + key
   request_compartidos = requests.get(requestUrlCompartidos, headers=requestHeaders)
   request_compartidos_json = request_compartidos.json()
-  with open("Mas_populares_compartidos.json", "w") as file:
+
+  nombre_archivo = "Mas_populares_compartidos"
+  archivos.append(nombre_archivo)
+
+  with open(nombre_archivo+".json", "w") as file:
     json.dump(request_compartidos_json, file, indent=4)
 
   requestUrlVistos = "https://api.nytimes.com/svc/mostpopular/v2/viewed/30.json?api-key=" + key
   request_vistos = requests.get(requestUrlVistos, headers=requestHeaders)
   request_vistos_json = request_vistos.json()
-  with open("Mas_populares_vistos.json", "w") as file:
+
+  nombre_archivo = "Mas_populares_vistos"
+  archivos.append(nombre_archivo)
+
+  with open(nombre_archivo+".json", "w") as file:
     json.dump(request_vistos_json, file, indent=4)
 
 
@@ -104,3 +134,18 @@ if __name__ == "__main__":
 
   periodo = str(30)   #Periodo de 3, 7, 30 dias
   executeMasPopulares(periodo)
+
+  #Conexion Amazon S3
+  
+
+  # Let's use Amazon S3
+  s3 = boto3.resource('s3')
+
+  # Print out bucket names
+  for bucket in s3.buckets.all():
+    print(bucket.name)
+
+  # Upload a new file
+  for i in archivos:
+    data = open(i+".json", "rb")
+    s3.Bucket("my-bucket").put_object(Key=i+".json", Body=data)
