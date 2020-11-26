@@ -148,4 +148,4 @@ if __name__ == "__main__":
   # Upload a new file
   for i in archivos:
     data = open(i+".json", "rb")
-    s3.Bucket("my-bucket").put_object(Key=i+".json", Body=data)
+    s3.Bucket("my-bucket-prueba1").put_object(Key=i+".json", Body=data)
