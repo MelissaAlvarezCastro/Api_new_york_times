@@ -1,4 +1,3 @@
-#!/bin/bash
 sudo apt -y update
 sudo apt -y install python3-venv
 cd /home/ubuntu/Api_new_york_times
