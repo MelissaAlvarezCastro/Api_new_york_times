@@ -142,7 +142,7 @@ if __name__ == "__main__":
   # Upload a new file
   for i in archivosListName:
     # Informacion necesaria para cargar al bucket
-    save_route = 'Consultas/archivosListName'
+    save_route = 'Consultas/archivosListName/'
 
     # Carga del archivo hacia el bucket
     client.upload_file(ruta+i+".json", name_bucket, save_route)
@@ -150,7 +150,7 @@ if __name__ == "__main__":
   # Upload a new file
   for i in archivosArchivoMensual:
     # Informacion necesaria para cargar al bucket
-    save_route = 'Consultas/archivosArchivoMensual'
+    save_route = 'Consultas/archivosArchivoMensual/'
 
     # Carga del archivo hacia el bucket
     client.upload_file(ruta+i+".json", name_bucket, save_route)
@@ -158,7 +158,7 @@ if __name__ == "__main__":
   # Upload a new file
   for i in archivosPublicado:
     # Informacion necesaria para cargar al bucket
-    save_route = 'Consultas/archivosPublicado'
+    save_route = 'Consultas/archivosPublicado/'
 
     # Carga del archivo hacia el bucket
     client.upload_file(ruta+i+".json", name_bucket, save_route)
@@ -166,7 +166,7 @@ if __name__ == "__main__":
   # Upload a new file
   for i in archivosMasPopulares:
     # Informacion necesaria para cargar al bucket
-    save_route = 'Consultas/archivosMasPopulares'
+    save_route = 'Consultas/archivosMasPopulares/'
 
     # Carga del archivo hacia el bucket
     client.upload_file(ruta+i+".json", name_bucket, save_route)
