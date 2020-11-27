@@ -12,7 +12,6 @@ key = "kbxT5wfzUZXcLkbSzMYLeuZ2MLp5zdDr"
 archivos = []
 archivosListName = []
 archivosArchivoMensual = []
-archivosMasVendido = []
 archivosPublicado = []
 archivosMasPopulares = []
 
@@ -27,6 +26,7 @@ def executeListName():
 
   nombre_archivo = "List_name"
   archivos.append(nombre_archivo)
+  archivosListName.append(nombre_archivo)
 
   with open("consultas/"+nombre_archivo+".json", "w") as file:
     json.dump(request_list_json, file, indent=4)
@@ -49,6 +49,7 @@ def executeArchivo(year, month):
 
   nombre_archivo = "Archivo_"+year+"_"+month
   archivos.append(nombre_archivo)
+  archivosArchivoMensual.append(nombre_archivo)
 
   with open("consultas/"+nombre_archivo+".json", "w") as file:
     json.dump(request_archive_json, file, indent=4)
@@ -65,6 +66,7 @@ def executePublicados(date):
 
   nombre_archivo = "Publicado_"+date
   archivos.append(nombre_archivo)
+  archivosPublicado.append(nombre_archivo)
 
   with open("consultas/"+nombre_archivo+".json", "w") as file:
     json.dump(request_Publicados_json, file, indent=4)
@@ -82,6 +84,7 @@ def executeMasPopulares(periodo):
 
   nombre_archivo = "Mas_populares_enviados"
   archivos.append(nombre_archivo)
+  archivosMasPopulares.append(nombre_archivo)
 
   with open("consultas/"+nombre_archivo+".json", "w") as file:
     json.dump(request_enivados_json, file, indent=4)
@@ -92,6 +95,7 @@ def executeMasPopulares(periodo):
 
   nombre_archivo = "Mas_populares_compartidos"
   archivos.append(nombre_archivo)
+  archivosMasPopulares.append(nombre_archivo)
 
   with open("consultas/"+nombre_archivo+".json", "w") as file:
     json.dump(request_compartidos_json, file, indent=4)
@@ -102,6 +106,7 @@ def executeMasPopulares(periodo):
 
   nombre_archivo = "Mas_populares_vistos"
   archivos.append(nombre_archivo)
+  archivosMasPopulares.append(nombre_archivo)
 
   with open("consultas/"+nombre_archivo+".json", "w") as file:
     json.dump(request_vistos_json, file, indent=4)
@@ -125,20 +130,43 @@ if __name__ == "__main__":
   periodo = str(30)   #Periodo de 3, 7, 30 dias
   executeMasPopulares(periodo)
 
-  dt = datetime.utcnow()
-
   #Conexion Amazon S3
 
   # Cliente con las credenciales
-  client = boto3.client('s3', aws_access_key_id="AKIA6QHPHXNS7OJREYFG", aws_secret_access_key="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") #Credenciales IAM James
-  #client = boto3.client('s3', aws_access_key_id="AKIA6QHPHXNSQAX55NEJ", aws_secret_access_key="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")  # Credenciales IAM Melissa
+  #client = boto3.client('s3', aws_access_key_id="AKIA6QHPHXNS7OJREYFG", aws_secret_access_key="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") #Credenciales IAM James
+  client = boto3.client('s3', aws_access_key_id="AKIA6QHPHXNSQAX55NEJ", aws_secret_access_key="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")  # Credenciales IAM Melissa
+
+  ruta = '/home/ubuntu/consultas/'
+  name_bucket = 'my-bucket-prueba1'
 
   # Upload a new file
-  for i in archivos:
+  for i in archivosListName:
     # Informacion necesaria para cargar al bucket
-    ruta = '/home/ubuntu/consultas/'
-    name_bucket = 'my-bucket-prueba1'
-    save_route = 'Cargas/'+str(dt)+'/'
+    save_route = 'Consultas/archivosListName'
+
+    # Carga del archivo hacia el bucket
+    client.upload_file(ruta+i+".json", name_bucket, save_route)
+
+  # Upload a new file
+  for i in archivosArchivoMensual:
+    # Informacion necesaria para cargar al bucket
+    save_route = 'Consultas/archivosArchivoMensual'
+
+    # Carga del archivo hacia el bucket
+    client.upload_file(ruta+i+".json", name_bucket, save_route)
+
+  # Upload a new file
+  for i in archivosPublicado:
+    # Informacion necesaria para cargar al bucket
+    save_route = 'Consultas/archivosPublicado'
+
+    # Carga del archivo hacia el bucket
+    client.upload_file(ruta+i+".json", name_bucket, save_route)
+
+  # Upload a new file
+  for i in archivosMasPopulares:
+    # Informacion necesaria para cargar al bucket
+    save_route = 'Consultas/archivosMasPopulares'
 
     # Carga del archivo hacia el bucket
     client.upload_file(ruta+i+".json", name_bucket, save_route)
