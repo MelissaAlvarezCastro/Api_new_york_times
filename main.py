@@ -6,9 +6,15 @@
 import requests
 import json
 import boto3
+from datetime import datetime
 
 key = "kbxT5wfzUZXcLkbSzMYLeuZ2MLp5zdDr"
 archivos = []
+archivosListName = []
+archivosArchivoMensual = []
+archivosMasVendido = []
+archivosPublicado = []
+archivosMasPopulares = []
 
 def executeListName():
   requestUrl = "https://api.nytimes.com/svc/books/v3/lists/names.json?api-key=" + key
@@ -22,7 +28,7 @@ def executeListName():
   nombre_archivo = "List_name"
   archivos.append(nombre_archivo)
 
-  with open(nombre_archivo+".json", "w") as file:
+  with open("consultas/"+nombre_archivo+".json", "w") as file:
     json.dump(request_list_json, file, indent=4)
 
   request_Array = request_list_json["results"]
@@ -44,24 +50,8 @@ def executeArchivo(year, month):
   nombre_archivo = "Archivo_"+year+"_"+month
   archivos.append(nombre_archivo)
 
-  with open(nombre_archivo+".json", "w") as file:
+  with open("consultas/"+nombre_archivo+".json", "w") as file:
     json.dump(request_archive_json, file, indent=4)
-
-
-def executeMasVendido(lists_name, date):
-  requestUrl = "https://api.nytimes.com/svc/books/v3/lists/"+date+"/"+lists_name+".json?offset=20&api-key=" + key
-  requestHeaders = {
-    "Accept": "application/json"
-  }
-
-  request_MasVendido = requests.get(requestUrl, headers=requestHeaders)
-  request_json = request_MasVendido.json()
-
-  nombre_archivo = "Libros_"+date
-  archivos.append(nombre_archivo)
-
-  with open(nombre_archivo+".json", "w") as file:
-    json.dump(request_json, file, indent=4)
 
 
 def executePublicados(date):
@@ -76,7 +66,7 @@ def executePublicados(date):
   nombre_archivo = "Publicado_"+date
   archivos.append(nombre_archivo)
 
-  with open(nombre_archivo+".json", "w") as file:
+  with open("consultas/"+nombre_archivo+".json", "w") as file:
     json.dump(request_Publicados_json, file, indent=4)
 
 
@@ -93,7 +83,7 @@ def executeMasPopulares(periodo):
   nombre_archivo = "Mas_populares_enviados"
   archivos.append(nombre_archivo)
 
-  with open(nombre_archivo+".json", "w") as file:
+  with open("consultas/"+nombre_archivo+".json", "w") as file:
     json.dump(request_enivados_json, file, indent=4)
 
   requestUrlCompartidos = "https://api.nytimes.com/svc/mostpopular/v2/shared/30.json?api-key=" + key
@@ -103,7 +93,7 @@ def executeMasPopulares(periodo):
   nombre_archivo = "Mas_populares_compartidos"
   archivos.append(nombre_archivo)
 
-  with open(nombre_archivo+".json", "w") as file:
+  with open("consultas/"+nombre_archivo+".json", "w") as file:
     json.dump(request_compartidos_json, file, indent=4)
 
   requestUrlVistos = "https://api.nytimes.com/svc/mostpopular/v2/viewed/30.json?api-key=" + key
@@ -113,7 +103,7 @@ def executeMasPopulares(periodo):
   nombre_archivo = "Mas_populares_vistos"
   archivos.append(nombre_archivo)
 
-  with open(nombre_archivo+".json", "w") as file:
+  with open("consultas/"+nombre_archivo+".json", "w") as file:
     json.dump(request_vistos_json, file, indent=4)
 
 
@@ -135,17 +125,20 @@ if __name__ == "__main__":
   periodo = str(30)   #Periodo de 3, 7, 30 dias
   executeMasPopulares(periodo)
 
+  dt = datetime.utcnow()
+
   #Conexion Amazon S3
-  
 
-  # Let's use Amazon S3
-  s3 = boto3.resource('s3')
-
-  # Print out bucket names
-  for bucket in s3.buckets.all():
-    print(bucket.name)
+  # Cliente con las credenciales
+  client = boto3.client('s3', aws_access_key_id="AKIA6QHPHXNS7OJREYFG", aws_secret_access_key="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") #Credenciales IAM James
+  #client = boto3.client('s3', aws_access_key_id="AKIA6QHPHXNSQAX55NEJ", aws_secret_access_key="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")  # Credenciales IAM Melissa
 
   # Upload a new file
   for i in archivos:
-    data = open(i+".json", "rb")
-    s3.Bucket("my-bucket-prueba1").put_object(Key=i+".json", Body=data)
+    # Informacion necesaria para cargar al bucket
+    ruta = '/home/ubuntu/consultas/'
+    name_bucket = 'my-bucket-prueba1'
+    save_route = 'Cargas/'+str(dt)+'/'
+
+    # Carga del archivo hacia el bucket
+    client.upload_file(ruta+i+".json", name_bucket, save_route)
