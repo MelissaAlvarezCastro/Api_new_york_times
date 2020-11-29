@@ -137,7 +137,7 @@ if __name__ == "__main__":
   client = boto3.client('s3', aws_access_key_id="AKIA6QHPHXNSQAX55NEJ", aws_secret_access_key="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")  # Credenciales IAM Melissa
 
   ruta = '/home/ubuntu/consultas/'
-  name_bucket = 'my-bucket-prueba1'
+  name_bucket = 'my-bucket-prueba2'
 
   # Upload a new file
   for i in archivosListName:
