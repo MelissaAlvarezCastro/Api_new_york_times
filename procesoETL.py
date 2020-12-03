@@ -38,7 +38,7 @@ def executeArchivoMensual(client, name_bucket, list_mensual):
             array_docs_json.append(item)
 
     data_df_archivosMensual = pd.DataFrame(array_json)
-    data_to_db_archivosMensual = data_df_archivosMensual[['end_point','origin','date_query','date_warehouse','copyright','response','num_docs']]
+    data_to_db_archivosMensual = data_df_archivosMensual[['end_point','origin','date_query','date_warehouse','copyright','num_docs']]
 
     data_df_docs = pd.DataFrame(array_docs_json)
     data_to_db_docs = data_df_docs[['end_point','origin','date_query','date_warehouse','abstract','web_url','pub_date','document_type','section_name','uri']]
@@ -227,7 +227,7 @@ if __name__ == "__main__":
     publicado, publicado_results, publicado_results_lists, publicado_results_lists_books = executePublicados(client, name_bucket, list_publicados)
 
     engine = create_engine('postgresql://postgres:12345678@database.cqsybfowumzl.us-east-2.rds.amazonaws.com:5432/postgres')
-    archivosMensual.to_sql('archivosMensual', con=engine, index=False)
+    #archivosMensual.to_sql('archivosMensual', con=engine, index=False)
     archivosMensual_docs.to_sql('archivosMensual_docs', con=engine, index=False)
     listName.to_sql('listName', con=engine, index=False)
     listName_results.to_sql('listName_results', con=engine, index=False)
