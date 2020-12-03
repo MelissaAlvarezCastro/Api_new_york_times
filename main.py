@@ -133,11 +133,11 @@ if __name__ == "__main__":
   #Conexion Amazon S3
 
   # Cliente con las credenciales
-  #client = boto3.client('s3', aws_access_key_id="AKIA6QHPHXNS7OJREYFG", aws_secret_access_key="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") #Credenciales IAM James
-  client = boto3.client('s3', aws_access_key_id="AKIA6QHPHXNSQAX55NEJ", aws_secret_access_key="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")  # Credenciales IAM Melissa
+  #client = boto3.client('s3', aws_access_key_id="AKIARUOSMCVG3L6WLJ7A", aws_secret_access_key="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") #Credenciales IAM James
+  client = boto3.client('s3', aws_access_key_id="AKIARUOSMCVGUR6ETZ73", aws_secret_access_key="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")  # Credenciales IAM Melissa
 
   ruta = '/home/ubuntu/consultas/'
-  name_bucket = 'my-bucket-prueba2'
+  name_bucket = 'my-bucket-prueba3'
 
   # Upload a new file
   for i in archivosListName:
