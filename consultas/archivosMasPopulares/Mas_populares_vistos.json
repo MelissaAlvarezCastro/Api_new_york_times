@@ -1,0 +1,1182 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2020 The New York Times Company.  All Rights Reserved.",
+    "num_results": 20,
+    "results": [
+        {
+            "uri": "nyt://article/e74bf800-4d6f-5d09-8404-0d5ac060263b",
+            "url": "https://www.nytimes.com/2020/11/07/us/politics/biden-election.html",
+            "id": 100000007435608,
+            "asset_id": 100000007435608,
+            "source": "New York Times",
+            "published_date": "2020-11-07",
+            "updated": "2020-11-18 09:50:53",
+            "section": "U.S.",
+            "subsection": "Politics",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Presidential Election of 2020;United States Politics and Government;internal-election-open;Biden, Joseph R Jr;Trump, Donald J;Harris, Kamala D;Democratic Party",
+            "column": null,
+            "byline": "By Jonathan Martin and Alexander Burns",
+            "type": "Article",
+            "title": "Biden Wins Presidency, Ending Four Tumultuous Years Under Trump",
+            "abstract": "Joseph R. Biden Jr. achieved victory offering a message of healing and unity. He will return to Washington facing a daunting set of crises.",
+            "des_facet": [
+                "Presidential Election of 2020",
+                "United States Politics and Government",
+                "internal-election-open"
+            ],
+            "org_facet": [
+                "Democratic Party"
+            ],
+            "per_facet": [
+                "Biden, Joseph R Jr",
+                "Trump, Donald J",
+                "Harris, Kamala D"
+            ],
+            "geo_facet": [],
+            "media": [],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/d656074f-fe2e-501d-bf52-8386a7addecc",
+            "url": "https://www.nytimes.com/2020/11/25/opinion/meghan-markle-miscarriage.html",
+            "id": 100000007469162,
+            "asset_id": 100000007469162,
+            "source": "New York Times",
+            "published_date": "2020-11-25",
+            "updated": "2020-12-02 16:09:41",
+            "section": "Opinion",
+            "subsection": "",
+            "nytdsection": "opinion",
+            "adx_keywords": "Coronavirus (2019-nCoV);Social Conditions and Trends;Miscarriages;Grief (Emotion);Royal Families;Markle, Meghan;Great Britain",
+            "column": null,
+            "byline": "By Meghan, The Duchess of Sussex",
+            "type": "Article",
+            "title": "The Losses We Share",
+            "abstract": "Perhaps the path to healing begins with three simple words: Are you OK?",
+            "des_facet": [
+                "Coronavirus (2019-nCoV)",
+                "Social Conditions and Trends",
+                "Miscarriages",
+                "Grief (Emotion)",
+                "Royal Families"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Markle, Meghan"
+            ],
+            "geo_facet": [
+                "Great Britain"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Pool photo by Ian Volger",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/24/opinion/00mmPromo/00mmPromo-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/24/opinion/00mmPromo/00mmPromo-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/24/opinion/00mmPromo/00mmPromo-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/faa88d2a-596a-5d68-a46d-2f7c89f0bcd8",
+            "url": "https://www.nytimes.com/2020/11/04/us/politics/trump-fox-news-arizona.html",
+            "id": 100000007436329,
+            "asset_id": 100000007436329,
+            "source": "New York Times",
+            "published_date": "2020-11-04",
+            "updated": "2020-11-16 16:53:35",
+            "section": "U.S.",
+            "subsection": "Politics",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Presidential Election of 2020;United States Politics and Government;News and News Media;Television;Ducey, Doug (1964- );Trump, Donald J;Miller, Jason (1975- );Fox News Channel;Arizona",
+            "column": null,
+            "byline": "By Annie Karni and Maggie Haberman",
+            "type": "Article",
+            "title": "Fox\u2019s Arizona Call for Biden Flipped the Mood at Trump Headquarters",
+            "abstract": "The Fox News decision left the president fuming, and his team complaining. Then he began casting aspersions on other states\u2019 vote counts.",
+            "des_facet": [
+                "Presidential Election of 2020",
+                "United States Politics and Government",
+                "News and News Media",
+                "Television"
+            ],
+            "org_facet": [
+                "Fox News Channel"
+            ],
+            "per_facet": [
+                "Ducey, Doug (1964- )",
+                "Trump, Donald J",
+                "Miller, Jason (1975- )"
+            ],
+            "geo_facet": [
+                "Arizona"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Trump early Wednesday morning before speaking to a crowd at the White House. He baselessly attacked the election results as a \u201cfraud on the American public.\u201d",
+                    "copyright": "Doug Mills/The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/04/us/politics/04TRUMP-ELECTION-1/04TRUMP-ELECTION-1-thumbStandard-v2.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/04/us/politics/04TRUMP-ELECTION-1/04TRUMP-ELECTION-1-mediumThreeByTwo210-v2.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/04/us/politics/04TRUMP-ELECTION-1/04TRUMP-ELECTION-1-mediumThreeByTwo440-v2.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/98e31a6a-1107-546f-a68d-36df13ce9b24",
+            "url": "https://www.nytimes.com/2020/11/19/style/rudy-giuliani-hair.html",
+            "id": 100000007463764,
+            "asset_id": 100000007463764,
+            "source": "New York Times",
+            "published_date": "2020-11-19",
+            "updated": "2020-11-24 10:32:42",
+            "section": "Style",
+            "subsection": "",
+            "nytdsection": "style",
+            "adx_keywords": "Dyes and Dyestuffs;Hair;Giuliani, Rudolph W",
+            "column": null,
+            "byline": "By Jonah Engel Bromwich",
+            "type": "Article",
+            "title": "Whatever It Is, It\u2019s Probably Not Hair Dye",
+            "abstract": "Hairdressers weigh in on Rudy Giuliani\u2019s drip problem.",
+            "des_facet": [
+                "Dyes and Dyestuffs",
+                "Hair"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Giuliani, Rudolph W"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Rudolph W. Giuliani, President Trump\u2019s personal attorney, at a news conference on Thursday about the results of the 2020 presidential election.",
+                    "copyright": "Jonathan Ernst/Reuters",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/19/fashion/19rudy-hair/19rudy-hair-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/19/fashion/19rudy-hair/19rudy-hair-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/19/fashion/19rudy-hair/19rudy-hair-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/2fef43cc-1e25-5a18-ad8c-363891109a57",
+            "url": "https://www.nytimes.com/2020/11/04/upshot/pennsylvania-election-results-ballots.html",
+            "id": 100000007435128,
+            "asset_id": 100000007435128,
+            "source": "New York Times",
+            "published_date": "2020-11-04",
+            "updated": "2020-11-18 08:10:04",
+            "section": "The Upshot",
+            "subsection": "",
+            "nytdsection": "the upshot",
+            "adx_keywords": "Presidential Election of 2020;Absentee Voting;United States Politics and Government;Biden, Joseph R Jr;Trump, Donald J;Pennsylvania",
+            "column": null,
+            "byline": "By Nate Cohn",
+            "type": "Article",
+            "title": "The Remaining Vote in Pennsylvania Appears to Be Overwhelmingly for Biden",
+            "abstract": "The president leads by nearly 700,000 votes, but there are 1.4 million absentee votes outstanding.",
+            "des_facet": [
+                "Presidential Election of 2020",
+                "Absentee Voting",
+                "United States Politics and Government"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Biden, Joseph R Jr",
+                "Trump, Donald J"
+            ],
+            "geo_facet": [
+                "Pennsylvania"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/04/us/-promo-1604491386708/-promo-1604491386708-thumbStandard.png",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/04/us/-promo-1604491386708/-promo-1604491386708-mediumThreeByTwo210.png",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/04/us/-promo-1604491386708/-promo-1604491386708-mediumThreeByTwo440.png",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/3b5de28f-421b-5fda-bc25-e48aa9851386",
+            "url": "https://www.nytimes.com/2020/11/09/health/covid-vaccine-pfizer.html",
+            "id": 100000007414429,
+            "asset_id": 100000007414429,
+            "source": "New York Times",
+            "published_date": "2020-11-09",
+            "updated": "2020-12-02 09:58:55",
+            "section": "Health",
+            "subsection": "",
+            "nytdsection": "health",
+            "adx_keywords": "Clinical Trials;Vaccination and Immunization;Coronavirus (2019-nCoV);your-feed-healthcare;your-feed-science;Bourla, Albert;BioNTech SE;Pfizer Inc",
+            "column": null,
+            "byline": "By Katie Thomas, David Gelles and Carl Zimmer",
+            "type": "Article",
+            "title": "Pfizer\u2019s Early Data Shows Vaccine Is More Than 90% Effective",
+            "abstract": "Pfizer announced positive early results from its coronavirus vaccine trial, cementing the lead in a frenzied global race that has unfolded at record-breaking speed.",
+            "des_facet": [
+                "Clinical Trials",
+                "Vaccination and Immunization",
+                "Coronavirus (2019-nCoV)",
+                "your-feed-healthcare",
+                "your-feed-science"
+            ],
+            "org_facet": [
+                "BioNTech SE",
+                "Pfizer Inc"
+            ],
+            "per_facet": [
+                "Bourla, Albert"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A volunteer in Pfizer\u2019s clinical trial was vaccinated this month at Cincinnati Children\u2019s Hospital Medical Center.",
+                    "copyright": "Cincinnati Children\u2019s Hospital Medical Center, via Associated Press",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/10/26/science/00HFO-PFIZER-DATA1/00HFO-PFIZER-DATA1-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/10/26/science/00HFO-PFIZER-DATA1/00HFO-PFIZER-DATA1-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/10/26/science/00HFO-PFIZER-DATA1/00HFO-PFIZER-DATA1-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/4d89846d-9bd8-521b-921b-db071dfbafa4",
+            "url": "https://www.nytimes.com/2020/11/04/us/politics/how-biden-and-trump-can-win.html",
+            "id": 100000007434583,
+            "asset_id": 100000007434583,
+            "source": "New York Times",
+            "published_date": "2020-11-04",
+            "updated": "2020-11-12 22:24:59",
+            "section": "U.S.",
+            "subsection": "Politics",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Presidential Election of 2020;Biden, Joseph R Jr;Trump, Donald J;Michigan;Pennsylvania;Georgia;Wisconsin",
+            "column": null,
+            "byline": "By Reid J. Epstein and Glenn Thrush",
+            "type": "Article",
+            "title": "Can Biden Still Win? Yes. Here Are the Remaining Paths.",
+            "abstract": "Joe Biden moved closer to 270 electoral votes with victories in Wisconsin and Michigan on Wednesday, leaving President Trump largely playing defense on the battleground map.",
+            "des_facet": [
+                "Presidential Election of 2020"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Biden, Joseph R Jr",
+                "Trump, Donald J"
+            ],
+            "geo_facet": [
+                "Michigan",
+                "Pennsylvania",
+                "Georgia",
+                "Wisconsin"
+            ],
+            "media": [],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/394497c4-e159-5e93-a9ab-36e62dccb899",
+            "url": "https://www.nytimes.com/2020/11/17/health/coronavirus-immunity.html",
+            "id": 100000007456461,
+            "asset_id": 100000007456461,
+            "source": "New York Times",
+            "published_date": "2020-11-17",
+            "updated": "2020-11-27 09:29:30",
+            "section": "Health",
+            "subsection": "",
+            "nytdsection": "health",
+            "adx_keywords": "Immune System;Coronavirus (2019-nCoV);Antibodies;Vaccination and Immunization;SARS (Severe Acute Respiratory Syndrome);your-feed-science;La Jolla (Calif)",
+            "column": null,
+            "byline": "By Apoorva Mandavilli",
+            "type": "Article",
+            "title": "Immunity to the Coronavirus May Last Years, New Data Hint",
+            "abstract": "Blood samples from recovered patients suggest a powerful, long-lasting immune response, researchers reported.",
+            "des_facet": [
+                "Immune System",
+                "Coronavirus (2019-nCoV)",
+                "Antibodies",
+                "Vaccination and Immunization",
+                "SARS (Severe Acute Respiratory Syndrome)",
+                "your-feed-science"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "La Jolla (Calif)"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Blood was drawn for a Covid-19 antibody test at the University of Arizona in Tucson earlier this year.",
+                    "copyright": "Cheney Orr/Reuters",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/17/science/17VIRUS-IMMUNE1/17VIRUS-IMMUNE1-thumbStandard-v2.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/17/science/17VIRUS-IMMUNE1/17VIRUS-IMMUNE1-mediumThreeByTwo210-v2.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/17/science/17VIRUS-IMMUNE1/17VIRUS-IMMUNE1-mediumThreeByTwo440-v2.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/b910c39a-6f7e-5517-83a1-39ebddc94e90",
+            "url": "https://www.nytimes.com/2020/11/09/business/jones-day-trump-election-lawsuits.html",
+            "id": 100000007445235,
+            "asset_id": 100000007445235,
+            "source": "New York Times",
+            "published_date": "2020-11-09",
+            "updated": "2020-11-13 09:48:52",
+            "section": "Business",
+            "subsection": "",
+            "nytdsection": "business",
+            "adx_keywords": "Presidential Election of 2020;United States Politics and Government;Legal Profession;Suits and Litigation (Civil);Appointments and Executive Changes;McGahn, Donald F II;Trump, Donald J;Porter Wright Morris & Arthur LLP;Jones Day;Pennsylvania;Cleveland (Ohio);Columbus (Ohio)",
+            "column": null,
+            "byline": "By Jessica Silver-Greenberg, Rachel Abrams and David Enrich",
+            "type": "Article",
+            "title": "Growing Discomfort at Law Firms Representing Trump in Election Lawsuits",
+            "abstract": "Some lawyers at Jones Day and Porter Wright, which have filed suits about the 2020 vote, said they were worried about undermining the electoral system.",
+            "des_facet": [
+                "Presidential Election of 2020",
+                "United States Politics and Government",
+                "Legal Profession",
+                "Suits and Litigation (Civil)",
+                "Appointments and Executive Changes"
+            ],
+            "org_facet": [
+                "Porter Wright Morris & Arthur LLP",
+                "Jones Day"
+            ],
+            "per_facet": [
+                "McGahn, Donald F II",
+                "Trump, Donald J"
+            ],
+            "geo_facet": [
+                "Pennsylvania",
+                "Cleveland (Ohio)",
+                "Columbus (Ohio)"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Donald F. McGahn II, a partner at Jones Day, appeared onstage at a Trump event in February 2016.",
+                    "copyright": "Joe Raedle/Getty Images",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/09/business/09JonesDay-01/09JonesDay-01-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/09/business/09JonesDay-01/09JonesDay-01-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/09/business/09JonesDay-01/09JonesDay-01-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/6dde3182-4544-51a0-ba43-57b32206576c",
+            "url": "https://www.nytimes.com/2020/11/01/us/politics/biden-trump-poll-florida-pennsylvania-wisconsin.html",
+            "id": 100000007424754,
+            "asset_id": 100000007424754,
+            "source": "New York Times",
+            "published_date": "2020-11-01",
+            "updated": "2020-11-08 11:01:55",
+            "section": "U.S.",
+            "subsection": "Politics",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Presidential Election of 2016;Presidential Election of 2020;Polls and Public Opinion;United States Politics and Government;Biden, Joseph R Jr;Clinton, Hillary Rodham;Trump, Donald J;Arizona;Florida;Pennsylvania;Wisconsin",
+            "column": null,
+            "byline": "By Alexander Burns and Jonathan Martin",
+            "type": "Article",
+            "title": "Election at Hand, Biden Leads Trump in Four Key States, Poll Shows",
+            "abstract": "Joseph R. Biden Jr. leads President Trump in Pennsylvania, Florida, Arizona and, by a wide margin, in Wisconsin, according to a Times/Siena College poll.",
+            "des_facet": [
+                "Presidential Election of 2016",
+                "Presidential Election of 2020",
+                "Polls and Public Opinion",
+                "United States Politics and Government"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Biden, Joseph R Jr",
+                "Clinton, Hillary Rodham",
+                "Trump, Donald J"
+            ],
+            "geo_facet": [
+                "Arizona",
+                "Florida",
+                "Pennsylvania",
+                "Wisconsin"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/10/31/us/-promo-1604183914590/-promo-1604183914590-thumbStandard-v2.png",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/10/31/us/-promo-1604183914590/-promo-1604183914590-mediumThreeByTwo210.png",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/10/31/us/-promo-1604183914590/-promo-1604183914590-mediumThreeByTwo440.png",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/6bb97b0e-475e-5888-a484-962f2c241b3a",
+            "url": "https://www.nytimes.com/2020/11/28/us/monolith-utah-disappeared.html",
+            "id": 100000007477435,
+            "asset_id": 100000007477435,
+            "source": "New York Times",
+            "published_date": "2020-11-28",
+            "updated": "2020-12-01 07:57:50",
+            "section": "U.S.",
+            "subsection": "",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Art;Sculpture;Bureau of Land Management;Utah",
+            "column": null,
+            "byline": "By Bryan Pietsch",
+            "type": "Article",
+            "title": "That Mysterious Monolith in the Utah Desert? It\u2019s Gone, Officials Say",
+            "abstract": "The metal structure has been removed, Utah officials said on Saturday, adding that they had not taken it down.",
+            "des_facet": [
+                "Art",
+                "Sculpture"
+            ],
+            "org_facet": [
+                "Bureau of Land Management"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Utah"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A metal object was found in the remote Utah desert last week by state workers.",
+                    "copyright": "Utah Department of Public Safety, via Associated Press",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/28/us/politics/28xp-monolith-photo/28xp-monolith-photo-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/28/us/politics/28xp-monolith-photo/28xp-monolith-photo-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/28/us/politics/28xp-monolith-photo/28xp-monolith-photo-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/32f75689-40c6-52a8-9a47-f822a72fa7ad",
+            "url": "https://www.nytimes.com/2020/11/25/business/coronavirus-vaccine-astrazeneca-oxford.html",
+            "id": 100000007473549,
+            "asset_id": 100000007473549,
+            "source": "New York Times",
+            "published_date": "2020-11-25",
+            "updated": "2020-12-02 09:46:50",
+            "section": "Business",
+            "subsection": "",
+            "nytdsection": "business",
+            "adx_keywords": "Coronavirus (2019-nCoV);Vaccination and Immunization;Clinical Trials;Research;Regulation and Deregulation of Industry;AstraZeneca PLC;Oxford University;Food and Drug Administration",
+            "column": null,
+            "byline": "By Rebecca Robbins and Benjamin Mueller",
+            "type": "Article",
+            "title": "After Admitting Mistake, AstraZeneca Faces Difficult Questions About Its Vaccine",
+            "abstract": "Some trial participants only got a partial dose of AstraZeneca\u2019s vaccine. Experts said the company\u2019s spotty disclosures have eroded confidence.",
+            "des_facet": [
+                "Coronavirus (2019-nCoV)",
+                "Vaccination and Immunization",
+                "Clinical Trials",
+                "Research",
+                "Regulation and Deregulation of Industry"
+            ],
+            "org_facet": [
+                "AstraZeneca PLC",
+                "Oxford University",
+                "Food and Drug Administration"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "AstraZeneca and Oxford \u201cget a poor grade for transparency and rigor when it comes to the vaccine trial results they have reported,\u201d\u00a0said Natalie Dean, a biostatistician at the University of Florida.",
+                    "copyright": "Andrew Testa for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/25/business/25Virus-Astrazeneca-01/merlin_180213399_bccc9a12-821f-448b-bb02-f8f37ce4e5d7-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/25/business/25Virus-Astrazeneca-01/merlin_180213399_bccc9a12-821f-448b-bb02-f8f37ce4e5d7-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/25/business/25Virus-Astrazeneca-01/merlin_180213399_bccc9a12-821f-448b-bb02-f8f37ce4e5d7-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/406907aa-cd83-5fdd-a34b-cae37788f5cc",
+            "url": "https://www.nytimes.com/2020/11/08/arts/television/alex-trebek-dead.html",
+            "id": 100000006772500,
+            "asset_id": 100000006772500,
+            "source": "New York Times",
+            "published_date": "2020-11-08",
+            "updated": "2020-11-09 14:31:36",
+            "section": "Arts",
+            "subsection": "Television",
+            "nytdsection": "arts",
+            "adx_keywords": "Deaths (Obituaries);Television;Records and Achievements;Contests and Prizes;Trebek, Alex",
+            "column": null,
+            "byline": "By Katharine Q. Seelye",
+            "type": "Article",
+            "title": "Alex Trebek, Longtime Host of \u2018Jeopardy!,\u2019 Dies at 80",
+            "abstract": "A good host, he once said, could set his ego aside and let contestants be all they could be. But he let them know when he thought they missed easy answers.",
+            "des_facet": [
+                "Deaths (Obituaries)",
+                "Television",
+                "Records and Achievements",
+                "Contests and Prizes"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Trebek, Alex"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Alex Trebek in 2010 on the set of \u201cJeopardy!\u201d As the show\u2019s host, Mr. Trebek was the essence of durability.",
+                    "copyright": "Amanda Edwards/Getty Images",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2019/10/16/obituaries/00Trebeck1/00Trebeck1-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/10/16/obituaries/00Trebeck1/00Trebeck1-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/10/16/obituaries/00Trebeck1/00Trebeck1-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/bc30dacc-2ef2-5e8f-83e9-ecdadb28a5da",
+            "url": "https://www.nytimes.com/2020/10/16/style/modern-love-he-married-a-sociopath-me.html",
+            "id": 100000007392836,
+            "asset_id": 100000007392836,
+            "source": "New York Times",
+            "published_date": "2020-10-16",
+            "updated": "2020-10-29 11:08:35",
+            "section": "Style",
+            "subsection": "",
+            "nytdsection": "style",
+            "adx_keywords": "Love (Emotion);Marriages;Lying;Dating and Relationships;Psychology and Psychologists",
+            "column": null,
+            "byline": "By Patric Gagne",
+            "type": "Article",
+            "title": "He Married a Sociopath: Me",
+            "abstract": "As a wife and a mother, I have learned how to tell the truth. Which is why I always know when my husband is lying.",
+            "des_facet": [
+                "Love (Emotion)",
+                "Marriages",
+                "Lying",
+                "Dating and Relationships",
+                "Psychology and Psychologists"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Brian Rea",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/10/18/fashion/18MODERN-GAGNE/18MODERN-GAGNE-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/10/18/fashion/18MODERN-GAGNE/18MODERN-GAGNE-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/10/18/fashion/18MODERN-GAGNE/18MODERN-GAGNE-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/77845a39-f036-520f-8cca-553c9d8274f6",
+            "url": "https://www.nytimes.com/2020/11/26/us/supreme-court-coronavirus-religion-new-york.html",
+            "id": 100000007463062,
+            "asset_id": 100000007463062,
+            "source": "New York Times",
+            "published_date": "2020-11-26",
+            "updated": "2020-11-26 14:14:52",
+            "section": "U.S.",
+            "subsection": "",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Suits and Litigation (Civil);Coronavirus (2019-nCoV);Decisions and Verdicts;Freedom of Religion;Shutdowns (Institutional);Places of Worship;Cuomo, Andrew M;Barrett, Amy Coney;Supreme Court (US);Roman Catholic Church;New York City",
+            "column": null,
+            "byline": "By Adam Liptak",
+            "type": "Article",
+            "title": "Splitting 5 to 4, Supreme Court Backs Religious Challenge to Cuomo\u2019s Virus Shutdown Order",
+            "abstract": "Justice Amy Coney Barrett played a decisive role in the decision, which took the opposite approach of earlier court rulings related to coronavirus restrictions in California and Nevada.",
+            "des_facet": [
+                "Suits and Litigation (Civil)",
+                "Coronavirus (2019-nCoV)",
+                "Decisions and Verdicts",
+                "Freedom of Religion",
+                "Shutdowns (Institutional)",
+                "Places of Worship"
+            ],
+            "org_facet": [
+                "Supreme Court (US)",
+                "Roman Catholic Church"
+            ],
+            "per_facet": [
+                "Cuomo, Andrew M",
+                "Barrett, Amy Coney"
+            ],
+            "geo_facet": [
+                "New York City"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Easter Mass was live-streamed from a mostly empty Catholic church in Brooklyn in April.",
+                    "copyright": "Ryan Christopher Jones for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/19/us/politics/00dc-scotus-church/00dc-scotus-church-thumbStandard-v2.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/19/us/politics/00dc-scotus-church/00dc-scotus-church-mediumThreeByTwo210-v3.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/19/us/politics/00dc-scotus-church/00dc-scotus-church-mediumThreeByTwo440-v3.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/26d13b25-910f-5f30-a795-10d00f9698dc",
+            "url": "https://www.nytimes.com/2020/11/07/us/politics/aoc-biden-progressives.html",
+            "id": 100000007442676,
+            "asset_id": 100000007442676,
+            "source": "New York Times",
+            "published_date": "2020-11-07",
+            "updated": "2020-11-16 09:27:26",
+            "section": "U.S.",
+            "subsection": "Politics",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Presidential Election of 2020;United States Politics and Government;Biden, Joseph R Jr;Ocasio-Cortez, Alexandria",
+            "column": null,
+            "byline": "By Astead W. Herndon",
+            "type": "Article",
+            "title": "Alexandria Ocasio-Cortez on Biden\u2019s Win, House Losses, and What\u2019s Next for the Left",
+            "abstract": "The congresswoman said Joe Biden\u2019s relationship with progressives would hinge on his actions. And she dismissed criticism from House moderates, calling some candidates who lost their races \u201csitting ducks.\u201d",
+            "des_facet": [
+                "Presidential Election of 2020",
+                "United States Politics and Government"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Biden, Joseph R Jr",
+                "Ocasio-Cortez, Alexandria"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Representative Alexandria Ocasio-Cortez spoke outside her campaign office in the Bronx on Election Day.",
+                    "copyright": "Desiree Rios for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/07/us/politics/07AOC-1/07AOC-1-thumbStandard-v5.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/07/us/politics/07AOC-1/07AOC-1-mediumThreeByTwo210-v3.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/07/us/politics/07AOC-1/07AOC-1-mediumThreeByTwo440-v3.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/860765cd-1135-5d0e-b06e-80bda84917c9",
+            "url": "https://www.nytimes.com/2020/10/31/opinion/republicans-biden-taxes.html",
+            "id": 100000007398843,
+            "asset_id": 100000007398843,
+            "source": "New York Times",
+            "published_date": "2020-10-31",
+            "updated": "2020-11-01 18:03:58",
+            "section": "Opinion",
+            "subsection": "",
+            "nytdsection": "opinion",
+            "adx_keywords": "Tax Cuts and Jobs Act (2017);Federal Taxes (US);Income Tax;Income Inequality;United States Politics and Government;Trump, Donald J;Republican Party",
+            "column": null,
+            "byline": "By Joseph E. Stiglitz",
+            "type": "Article",
+            "title": "Republicans, Not Biden, Are About to Raise Your Taxes",
+            "abstract": "President Trump built in tax increases beginning in 2021, for nearly everyone but those at the very top.",
+            "des_facet": [
+                "Tax Cuts and Jobs Act (2017)",
+                "Federal Taxes (US)",
+                "Income Tax",
+                "Income Inequality",
+                "United States Politics and Government"
+            ],
+            "org_facet": [
+                "Republican Party"
+            ],
+            "per_facet": [
+                "Trump, Donald J"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Celebrating the 2017 tax act at the White House.",
+                    "copyright": "Doug Mills/The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/10/31/opinion/31stiglitz-01/31stiglitz-01-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/10/31/opinion/31stiglitz-01/merlin_131503458_8bf5be2c-e86a-43f7-86a8-e69d98307154-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/10/31/opinion/31stiglitz-01/merlin_131503458_8bf5be2c-e86a-43f7-86a8-e69d98307154-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/8032db8d-078d-5433-b925-f5e7c0764a6b",
+            "url": "https://www.nytimes.com/2020/11/03/us/politics/when-election-results.html",
+            "id": 100000007428149,
+            "asset_id": 100000007428149,
+            "source": "New York Times",
+            "published_date": "2020-11-03",
+            "updated": "2020-11-07 07:48:14",
+            "section": "U.S.",
+            "subsection": "Politics",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Absentee Voting;Polls and Public Opinion;Electoral College;Presidential Election of 2020;Trump, Donald J;Biden, Joseph R Jr",
+            "column": null,
+            "byline": "By The New York Times",
+            "type": "Article",
+            "title": "When Will We Know the Election Results?",
+            "abstract": "We don\u2019t have a crystal ball. But here\u2019s what we know about timing for election night.",
+            "des_facet": [
+                "Absentee Voting",
+                "Polls and Public Opinion",
+                "Electoral College",
+                "Presidential Election of 2020"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Trump, Donald J",
+                "Biden, Joseph R Jr"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Staff members of The Associated Press Television Network work in master control at the Washington bureau of The Associated Press during the 2016 election.",
+                    "copyright": "Jon Elswick/Associated Press",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/02/multimedia/00xp-election-results1/00xp-election-results1-thumbStandard-v2.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/02/multimedia/00xp-election-results1/00xp-election-results1-mediumThreeByTwo210-v2.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/02/multimedia/00xp-election-results1/00xp-election-results1-mediumThreeByTwo440-v2.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/403637d5-d8f5-50be-ad38-417d13c15f23",
+            "url": "https://www.nytimes.com/2020/11/18/world/asia/covid-cleaning.html",
+            "id": 100000007366844,
+            "asset_id": 100000007366844,
+            "source": "New York Times",
+            "published_date": "2020-11-18",
+            "updated": "2020-11-23 09:18:26",
+            "section": "World",
+            "subsection": "Asia Pacific",
+            "nytdsection": "world",
+            "adx_keywords": "Coronavirus Risks and Safety Concerns;Coronavirus (2019-nCoV);Cleaning Services;Hygiene and Cleanliness;Hong Kong",
+            "column": null,
+            "byline": "By Mike Ives and Apoorva Mandavilli",
+            "type": "Article",
+            "title": "The Coronavirus Is Airborne Indoors. Why Are We Still Scrubbing Surfaces?",
+            "abstract": "Scientists who initially warned about contaminated surfaces now say that the virus spreads primarily through inhaled droplets, and that there is little to no evidence that deep cleaning mitigates the threat indoors.",
+            "des_facet": [
+                "Coronavirus Risks and Safety Concerns",
+                "Coronavirus (2019-nCoV)",
+                "Cleaning Services",
+                "Hygiene and Cleanliness"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Hong Kong"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "People buying disinfectant at a shopping mall in Hong Kong.",
+                    "copyright": "Lam Yik Fei for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/21/world/19virus-hk-hygiene03/19virus-hk-hygiene03-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/21/world/19virus-hk-hygiene03/merlin_180083316_747a5b09-7aff-43df-8741-786497b990bb-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/21/world/19virus-hk-hygiene03/merlin_180083316_747a5b09-7aff-43df-8741-786497b990bb-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/cfc88dab-e787-5078-b057-1d093772e0ee",
+            "url": "https://www.nytimes.com/article/the-electoral-college.html",
+            "id": 100000007424407,
+            "asset_id": 100000007424407,
+            "source": "New York Times",
+            "published_date": "2020-11-03",
+            "updated": "2020-12-02 16:07:29",
+            "section": "U.S.",
+            "subsection": "Politics",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Presidential Election of 2020;United States Politics and Government;Electoral College;Presidential Election of 2016;States (US);Constitution (US);Presidents and Presidency (US)",
+            "column": null,
+            "byline": "By Allyson Waller",
+            "type": "Article",
+            "title": "The Electoral College Explained",
+            "abstract": "It\u2019s the Electoral College, not the national popular vote, that determines who wins the presidency.",
+            "des_facet": [
+                "Presidential Election of 2020",
+                "United States Politics and Government",
+                "Electoral College",
+                "Presidential Election of 2016",
+                "States (US)",
+                "Constitution (US)",
+                "Presidents and Presidency (US)"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Following U.S. election results on a TV in a restaurant in Shanghai on Nov. 4.",
+                    "copyright": "Alex Plavevski/EPA, via Shutterstock",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/12/03/multimedia/03xp-electoral-college-explained-sub/03xp-electoral-college-explained-sub-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/12/03/multimedia/03xp-electoral-college-explained-sub/03xp-electoral-college-explained-sub-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/12/03/multimedia/03xp-electoral-college-explained-sub/03xp-electoral-college-explained-sub-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        }
+    ]
+}

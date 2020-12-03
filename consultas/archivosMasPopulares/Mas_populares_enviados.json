@@ -1,0 +1,1179 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2020 The New York Times Company.  All Rights Reserved.",
+    "num_results": 20,
+    "results": [
+        {
+            "uri": "nyt://article/6985e30e-5fe6-58e2-aa87-f3bce0e563d8",
+            "url": "https://www.nytimes.com/2020/11/23/opinion/brain-neuroscience-stress.html",
+            "id": 100000007461017,
+            "asset_id": 100000007461017,
+            "source": "New York Times",
+            "published_date": "2020-11-23",
+            "updated": "2020-11-27 16:48:11",
+            "section": "Opinion",
+            "subsection": "",
+            "nytdsection": "opinion",
+            "adx_keywords": "Brain;Anxiety and Stress;Psychology and Psychologists",
+            "column": null,
+            "byline": "By Lisa Feldman Barrett",
+            "type": "Article",
+            "title": "Your Brain Is Not for Thinking",
+            "abstract": "In stressful times, this surprising lesson from neuroscience may help to lessen your anxieties.",
+            "des_facet": [
+                "Brain",
+                "Anxiety and Stress",
+                "Psychology and Psychologists"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Claire Merchlinsky",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/25/opinion/25barrett/23barrett-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/25/opinion/25barrett/23barrett-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/25/opinion/25barrett/23barrett-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/c53795c4-55f3-5692-b990-934521b25ee7",
+            "url": "https://www.nytimes.com/2020/11/13/t-magazine/gout-tormenting-masses.html",
+            "id": 100000007408178,
+            "asset_id": 100000007408178,
+            "source": "New York Times",
+            "published_date": "2020-11-13",
+            "updated": "2020-11-28 23:33:41",
+            "section": "T Magazine",
+            "subsection": "",
+            "nytdsection": "t magazine",
+            "adx_keywords": "Gout",
+            "column": null,
+            "byline": "By Ligaya Mishan",
+            "type": "Article",
+            "title": "Once the Disease of Gluttonous Aristocrats, Gout Is Now Tormenting the Masses",
+            "abstract": "It can be tempting to ascribe the affliction\u2019s prevalence to our current climate of indulgence, but that\u2019s not the full story.",
+            "des_facet": [
+                "Gout"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Louis-Le\u0301opold Boilly\u2019s \u201cThe Gourmand\u201d (19th century).",
+                    "copyright": "Bridgeman Images",
+                    "approved_for_syndication": 0,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/13/t-magazine/13tmag-gout-slide-GDTQ/13tmag-gout-slide-GDTQ-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/13/t-magazine/13tmag-gout-slide-GDTQ/13tmag-gout-slide-GDTQ-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/13/t-magazine/13tmag-gout-slide-GDTQ/13tmag-gout-slide-GDTQ-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/9ff9efc2-8c0c-57af-9ae9-6da61b6f569b",
+            "url": "https://www.nytimes.com/2020/11/30/opinion/trump-conspiracy-germany-1918.html",
+            "id": 100000007473926,
+            "asset_id": 100000007473926,
+            "source": "New York Times",
+            "published_date": "2020-11-30",
+            "updated": "2020-12-02 03:17:22",
+            "section": "Opinion",
+            "subsection": "",
+            "nytdsection": "opinion",
+            "adx_keywords": "World War I (1914-18);Conspiracy Theories;Presidential Election of 2020;Hitler, Adolf;Trump, Donald J;Germany",
+            "column": null,
+            "byline": "By Jochen Bittner",
+            "type": "Article",
+            "title": "1918 Germany Has a Warning for America",
+            "abstract": "Donald Trump\u2019s \u201cStop the Steal\u201d campaign recalls one of the most disastrous political lies of the 20th century.",
+            "des_facet": [
+                "World War I (1914-18)",
+                "Conspiracy Theories",
+                "Presidential Election of 2020"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Hitler, Adolf",
+                "Trump, Donald J"
+            ],
+            "geo_facet": [
+                "Germany"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Getty Images",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/30/opinion/30bittnerWeb/30bittnerWeb-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/30/opinion/30bittnerWeb/30bittnerWeb-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/30/opinion/30bittnerWeb/30bittnerWeb-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/d656074f-fe2e-501d-bf52-8386a7addecc",
+            "url": "https://www.nytimes.com/2020/11/25/opinion/meghan-markle-miscarriage.html",
+            "id": 100000007469162,
+            "asset_id": 100000007469162,
+            "source": "New York Times",
+            "published_date": "2020-11-25",
+            "updated": "2020-12-02 16:09:41",
+            "section": "Opinion",
+            "subsection": "",
+            "nytdsection": "opinion",
+            "adx_keywords": "Coronavirus (2019-nCoV);Social Conditions and Trends;Miscarriages;Grief (Emotion);Royal Families;Markle, Meghan;Great Britain",
+            "column": null,
+            "byline": "By Meghan, The Duchess of Sussex",
+            "type": "Article",
+            "title": "The Losses We Share",
+            "abstract": "Perhaps the path to healing begins with three simple words: Are you OK?",
+            "des_facet": [
+                "Coronavirus (2019-nCoV)",
+                "Social Conditions and Trends",
+                "Miscarriages",
+                "Grief (Emotion)",
+                "Royal Families"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Markle, Meghan"
+            ],
+            "geo_facet": [
+                "Great Britain"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Pool photo by Ian Volger",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/24/opinion/00mmPromo/00mmPromo-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/24/opinion/00mmPromo/00mmPromo-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/24/opinion/00mmPromo/00mmPromo-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/85f40092-eb4e-5c56-9726-684d6b5713e7",
+            "url": "https://www.nytimes.com/2020/11/26/opinion/republican-disinformation.html",
+            "id": 100000007471310,
+            "asset_id": 100000007471310,
+            "source": "New York Times",
+            "published_date": "2020-11-26",
+            "updated": "2020-11-30 02:02:11",
+            "section": "Opinion",
+            "subsection": "",
+            "nytdsection": "opinion",
+            "adx_keywords": "United States Politics and Government;Right-Wing Extremism and Alt-Right;Rauch, Jonathan (1960- );Republican Party",
+            "column": null,
+            "byline": "By David Brooks",
+            "type": "Article",
+            "title": "The Rotting of the Republican Mind",
+            "abstract": "When one party becomes detached from reality.",
+            "des_facet": [
+                "United States Politics and Government",
+                "Right-Wing Extremism and Alt-Right"
+            ],
+            "org_facet": [
+                "Republican Party"
+            ],
+            "per_facet": [
+                "Rauch, Jonathan (1960- )"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Dan Anderson/EPA, via Shutterstock",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/26/opinion/26Brooks/26Brooks-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/26/opinion/26Brooks/26Brooks-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/26/opinion/26Brooks/26Brooks-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/69cb336b-70e8-52c7-ba08-860210ecb3dc",
+            "url": "https://www.nytimes.com/2019/12/19/learning/what-students-are-saying-about-how-to-improve-american-education.html",
+            "id": 100000006879639,
+            "asset_id": 100000006879639,
+            "source": "New York Times",
+            "published_date": "2019-12-19",
+            "updated": "2019-12-22 12:28:00",
+            "section": "The Learning Network",
+            "subsection": "",
+            "nytdsection": "the learning network",
+            "adx_keywords": "",
+            "column": null,
+            "byline": "By The Learning Network",
+            "type": "Article",
+            "title": "What Students Are Saying About How to Improve American Education",
+            "abstract": "An international exam shows that American 15-year-olds are stagnant in reading and math. Teenagers told us what\u2019s working and what\u2019s not in the American education system.",
+            "des_facet": [],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "In American schools, the achievement gap between high and low performers in reading has widened. We asked students how they think their education could improve. <a href=\"https://www.nytimes.com/2019/12/03/us/us-students-international-test-scores.html\">Related Article</a> | <a href=\"https://www.nytimes.com/2019/12/10/learning/how-do-you-think-american-education-could-be-improved.html\">Related Student Opinion</a>",
+                    "copyright": "Megan Jelinger/Agence France-Presse \u2014 Getty Images",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2019/12/02/us/02PISA-LN/02PISA-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/12/02/us/02PISA-LN/02PISA-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/12/02/us/02PISA-LN/02PISA-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/f5ca0778-3bd9-5336-aba7-b9d9887a943c",
+            "url": "https://www.nytimes.com/2020/11/16/opinion/jared-ivanka-trump.html",
+            "id": 100000007455770,
+            "asset_id": 100000007455770,
+            "source": "New York Times",
+            "published_date": "2020-11-16",
+            "updated": "2020-11-19 14:45:52",
+            "section": "Opinion",
+            "subsection": "",
+            "nytdsection": "opinion",
+            "adx_keywords": "United States Politics and Government;Kushner, Jared;Trump, Ivanka;Trump, Donald J",
+            "column": null,
+            "byline": "By Frank Bruni",
+            "type": "Article",
+            "title": "Was It Worth It, Jared and Ivanka?",
+            "abstract": "The glossiest grifters become Vuitton vagabonds.",
+            "des_facet": [
+                "United States Politics and Government"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Kushner, Jared",
+                "Trump, Ivanka",
+                "Trump, Donald J"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Jared and Ivanka were the Faustian poster couple of the Trump presidency, the king and queen of the principle-torching prom.",
+                    "copyright": "Doug Mills/The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/18/opinion/18bruniprint/15bruni1-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/18/opinion/18bruniprint/15bruni1-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/18/opinion/18bruniprint/15bruni1-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/18fbb2a7-4968-5f6d-8d0e-4bf6156913bb",
+            "url": "https://www.nytimes.com/2020/11/24/podcasts/this-american-life-thanksgiving.html",
+            "id": 100000007462432,
+            "asset_id": 100000007462432,
+            "source": "New York Times",
+            "published_date": "2020-11-24",
+            "updated": "2020-12-02 16:21:16",
+            "section": "Podcasts",
+            "subsection": "",
+            "nytdsection": "podcasts",
+            "adx_keywords": "Radio;Podcasts;Thanksgiving Day;Content Type: Service",
+            "column": null,
+            "byline": "By Ira Glass",
+            "type": "Article",
+            "title": "7 Great \u2018This American Life\u2019 Episodes for Thanksgiving",
+            "abstract": "From family mysteries and Native American history to stories that delight, here\u2019s what the show\u2019s host, Ira Glass, recommends to get you through the week.",
+            "des_facet": [
+                "Radio",
+                "Podcasts",
+                "Thanksgiving Day",
+                "Content Type: Service"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Sandy Honig",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/25/lens/00thisamericanlife-glass/00thisamericanlife-glass-thumbStandard-v2.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/25/lens/00thisamericanlife-glass/00thisamericanlife-glass-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/25/lens/00thisamericanlife-glass/00thisamericanlife-glass-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/4555bad6-5635-5805-a487-d363f962afbb",
+            "url": "https://www.nytimes.com/2020/11/14/opinion/sunday/roger-cohen-last-column.html",
+            "id": 100000007451471,
+            "asset_id": 100000007451471,
+            "source": "New York Times",
+            "published_date": "2020-11-14",
+            "updated": "2020-11-16 03:11:45",
+            "section": "Opinion",
+            "subsection": "Sunday Review",
+            "nytdsection": "opinion",
+            "adx_keywords": "Social Conditions and Trends;United States Politics and Government;News and News Media;Writing and Writers;Cohen, Roger;New York Times;Paris (France);Bosnia and Herzegovina;South Africa",
+            "column": null,
+            "byline": "By Roger Cohen",
+            "type": "Article",
+            "title": "Au Revoir but Not Adieu",
+            "abstract": "For 12 years as a columnist I wore my \u201cheart out after the unattainable.\u201d",
+            "des_facet": [
+                "Social Conditions and Trends",
+                "United States Politics and Government",
+                "News and News Media",
+                "Writing and Writers"
+            ],
+            "org_facet": [
+                "New York Times"
+            ],
+            "per_facet": [
+                "Cohen, Roger"
+            ],
+            "geo_facet": [
+                "Paris (France)",
+                "Bosnia and Herzegovina",
+                "South Africa"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "\u00a0\u00a0",
+                    "copyright": "Francois Mori/Associated Press",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/15/opinion/15cohen1/15cohen1-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/15/opinion/15cohen1/15cohen1-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/15/opinion/15cohen1/15cohen1-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/f90d25e2-9b88-5c17-b980-64d84599cb08",
+            "url": "https://www.nytimes.com/2020/11/04/opinion/trump-biden-election-2020.html",
+            "id": 100000007435314,
+            "asset_id": 100000007435314,
+            "source": "New York Times",
+            "published_date": "2020-11-04",
+            "updated": "2020-11-05 10:05:41",
+            "section": "Opinion",
+            "subsection": "",
+            "nytdsection": "opinion",
+            "adx_keywords": "Presidential Election of 2020;United States Politics and Government;Biden, Joseph R Jr;Trump, Donald J",
+            "column": null,
+            "byline": "By Thomas L. Friedman",
+            "type": "Article",
+            "title": "There Was a Loser Last Night. It Was America.",
+            "abstract": "Trump\u2019s ugly speech told us exactly where we\u2019re going \u2014 and it\u2019s nowhere good.",
+            "des_facet": [
+                "Presidential Election of 2020",
+                "United States Politics and Government"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Biden, Joseph R Jr",
+                "Trump, Donald J"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Devin Oktar Yalkin for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/04/opinion/04friedmanNew/04friedmanNew-thumbStandard-v2.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/04/opinion/04friedmanNew/04friedmanNew-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/04/opinion/04friedmanNew/04friedmanNew-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/790fb556-ca27-5d48-93e3-472ef52a87e5",
+            "url": "https://www.nytimes.com/2020/11/19/opinion/nine-nonobvious-ways-to-have-deeper-conversations.html",
+            "id": 100000007463602,
+            "asset_id": 100000007463602,
+            "source": "New York Times",
+            "published_date": "2020-11-19",
+            "updated": "2020-11-23 09:21:50",
+            "section": "Opinion",
+            "subsection": "",
+            "nytdsection": "opinion",
+            "adx_keywords": "Content Type: Service;Customs, Etiquette and Manners;Psychology and Psychologists;Conversation",
+            "column": null,
+            "byline": "By David Brooks",
+            "type": "Article",
+            "title": "Nine Nonobvious Ways to Have Deeper Conversations",
+            "abstract": "The art of making connection even in a time of dislocation.",
+            "des_facet": [
+                "Content Type: Service",
+                "Customs, Etiquette and Manners",
+                "Psychology and Psychologists",
+                "Conversation"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "\u00a0",
+                    "copyright": "Elinor Carucci/Edwynn Houk Gallery",
+                    "approved_for_syndication": 0,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/24/opinion/24Brooks-inyt/19Brooks-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/24/opinion/24Brooks-inyt/19Brooks-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/24/opinion/24Brooks-inyt/19Brooks-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://interactive/cba553d7-2ebc-597f-bd74-de3f617296e0",
+            "url": "https://www.nytimes.com/interactive/2014/upshot/dialect-quiz-map.html",
+            "id": 100000002615736,
+            "asset_id": 100000002615736,
+            "source": "New York Times",
+            "published_date": "2013-12-21",
+            "updated": "2020-11-03 18:17:18",
+            "section": "The Upshot",
+            "subsection": "",
+            "nytdsection": "the upshot",
+            "adx_keywords": "Language and Languages;English Language",
+            "column": null,
+            "byline": "By Josh Katz and Wilson Andrews",
+            "type": "Interactive",
+            "title": "How Y\u2019all, Youse and You Guys Talk",
+            "abstract": "What does the way you speak say about where you\u2019re from? Answer all the questions below to see your personal dialect map.",
+            "des_facet": [
+                "Language and Languages",
+                "English Language"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "",
+                    "caption": "",
+                    "copyright": "",
+                    "approved_for_syndication": 0,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2016/11/24/us/map-dialect/map-dialect-thumbStandard-v2.png",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2016/11/24/us/map-dialect/map-dialect-mediumThreeByTwo210-v2.png",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2016/11/24/us/map-dialect/map-dialect-mediumThreeByTwo440-v2.png",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/3a168210-6de6-5808-bfc3-f1b92facfc62",
+            "url": "https://www.nytimes.com/2020/11/10/opinion/trump-lies.html",
+            "id": 100000007447042,
+            "asset_id": 100000007447042,
+            "source": "New York Times",
+            "published_date": "2020-11-10",
+            "updated": "2020-11-11 16:23:52",
+            "section": "Opinion",
+            "subsection": "",
+            "nytdsection": "opinion",
+            "adx_keywords": "Presidential Election of 2020;Lying;Rumors and Misinformation;Social Media;United States Politics and Government;Trump, Donald J;Republican Party",
+            "column": null,
+            "byline": "By Thomas L. Friedman",
+            "type": "Article",
+            "title": "Only Truth Can Save Our Democracy",
+            "abstract": "The Trump presidency has dangerously normalized lying.",
+            "des_facet": [
+                "Presidential Election of 2020",
+                "Lying",
+                "Rumors and Misinformation",
+                "Social Media",
+                "United States Politics and Government"
+            ],
+            "org_facet": [
+                "Republican Party"
+            ],
+            "per_facet": [
+                "Trump, Donald J"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Damon Winter/The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/10/opinion/10friedmanWeb/10friedmanWeb-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/10/opinion/10friedmanWeb/10friedmanWeb-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/10/opinion/10friedmanWeb/10friedmanWeb-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/5854fabe-c47a-5bb7-b61c-54ec4f0c925a",
+            "url": "https://www.nytimes.com/2020/11/13/opinion/sunday/women-pay-gender-gap.html",
+            "id": 100000007368062,
+            "asset_id": 100000007368062,
+            "source": "New York Times",
+            "published_date": "2020-11-13",
+            "updated": "2020-11-15 15:56:05",
+            "section": "Opinion",
+            "subsection": "Sunday Review",
+            "nytdsection": "opinion",
+            "adx_keywords": "Women and Girls;Wages and Salaries;Discrimination;Labor and Jobs;New Zealand",
+            "column": null,
+            "byline": "By Anna Louie Sussman",
+            "type": "Article",
+            "title": "\u2018Women\u2019s Work\u2019 Can No Longer Be Taken for Granted",
+            "abstract": "New Zealand is pursuing a century-old idea to close the gender pay gap: not equal pay for equal work, but equal pay for work of equal value.",
+            "des_facet": [
+                "Women and Girls",
+                "Wages and Salaries",
+                "Discrimination",
+                "Labor and Jobs"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "New Zealand"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Photograph by Jens Mortensen",
+                    "approved_for_syndication": 0,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/12/opinion/sunday/12SussmanPromo/12SussmanPromo-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/12/opinion/sunday/12SussmanPromo/12SussmanPromo-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/12/opinion/sunday/12SussmanPromo/12SussmanPromo-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/46078c3c-dcc9-5639-8459-d39d14027df8",
+            "url": "https://www.nytimes.com/2020/11/17/travel/paris-vacation-at-home.html",
+            "id": 100000007403252,
+            "asset_id": 100000007403252,
+            "source": "New York Times",
+            "published_date": "2020-11-17",
+            "updated": "2020-12-01 10:30:04",
+            "section": "Travel",
+            "subsection": "",
+            "nytdsection": "travel",
+            "adx_keywords": "Cooking and Cookbooks;Fashion and Apparel;Travel and Vacations;Art;Culture (Arts);Books and Literature;Music;Scarves;Bakeries and Baked Products;Shopping and Retail;Content Type: Service;Quarantine (Life and Culture);Interior Design and Furnishings;Paris (France)",
+            "column": null,
+            "byline": "By Stephanie Rosenbloom",
+            "type": "Article",
+            "title": "How to Pretend You\u2019re in Paris Tonight",
+            "abstract": "There are countless ways to invite Paris into your home. All you need is a little creativity. And perhaps a glass of Champagne.",
+            "des_facet": [
+                "Cooking and Cookbooks",
+                "Fashion and Apparel",
+                "Travel and Vacations",
+                "Art",
+                "Culture (Arts)",
+                "Books and Literature",
+                "Music",
+                "Scarves",
+                "Bakeries and Baked Products",
+                "Shopping and Retail",
+                "Content Type: Service",
+                "Quarantine (Life and Culture)",
+                "Interior Design and Furnishings"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Paris (France)"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Empty embankment on the Seine during a Covid-19 lockdown in Paris on April.",
+                    "copyright": "Dmitry Kostyukov for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/03/multimedia/03AroundWorld-Paris1/03AroundWorld-Paris1-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/03/multimedia/03AroundWorld-Paris1/03AroundWorld-Paris1-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/03/multimedia/03AroundWorld-Paris1/03AroundWorld-Paris1-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/906e6886-a943-507b-8352-867498ec2b37",
+            "url": "https://www.nytimes.com/2020/11/28/at-home/exercise-for-kids.html",
+            "id": 100000007450175,
+            "asset_id": 100000007450175,
+            "source": "New York Times",
+            "published_date": "2020-11-28",
+            "updated": "2020-12-01 09:01:47",
+            "section": "At Home",
+            "subsection": "",
+            "nytdsection": "at home",
+            "adx_keywords": "Quarantine (Life and Culture);Coronavirus Risks and Safety Concerns;Content Type: Service;Children and Childhood;Bicycles and Bicycling;Parenting;Social Media;Jump Rope;Running;Hikes and Hiking;Yoga",
+            "column": null,
+            "byline": "By Rachel Levin",
+            "type": "Article",
+            "title": "Shut Down Your Computers, Kids, and Lace Up",
+            "abstract": "Teens and tweens need exercise, period. Many parents are finding informal, creative and encouraging ways to get their isolated offspring outside safely.",
+            "des_facet": [
+                "Quarantine (Life and Culture)",
+                "Coronavirus Risks and Safety Concerns",
+                "Content Type: Service",
+                "Children and Childhood",
+                "Bicycles and Bicycling",
+                "Parenting",
+                "Social Media",
+                "Jump Rope",
+                "Running",
+                "Hikes and Hiking",
+                "Yoga"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Luci Guti\u00e9rrez",
+                    "approved_for_syndication": 0,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/29/multimedia/29ah-Kids-Exercise-LARGE/29ah-Kids-Exercise-LARGE-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/29/multimedia/29ah-Kids-Exercise-LARGE/29ah-Kids-Exercise-LARGE-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/29/multimedia/29ah-Kids-Exercise-LARGE/29ah-Kids-Exercise-LARGE-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/de7cef81-02a3-51bd-b8ed-f919f114ea0f",
+            "url": "https://www.nytimes.com/2020/11/24/opinion/happiness-depression-suicide-psychology.html",
+            "id": 100000007466155,
+            "asset_id": 100000007466155,
+            "source": "New York Times",
+            "published_date": "2020-11-24",
+            "updated": "2020-12-02 18:25:30",
+            "section": "Opinion",
+            "subsection": "",
+            "nytdsection": "opinion",
+            "adx_keywords": "Happiness;Suicides and Suicide Attempts;Psychology and Psychologists;Depression (Mental);Content Type: Personal Profile;Research;Brickman, Philip (1943-82);University of Michigan;Ann Arbor (Mich)",
+            "column": null,
+            "byline": "By Jennifer Senior",
+            "type": "Article",
+            "title": "Happiness Won\u2019t Save You",
+            "abstract": "Philip Brickman was an expert in the psychology of happiness, but he couldn\u2019t make his own pain go away.",
+            "des_facet": [
+                "Happiness",
+                "Suicides and Suicide Attempts",
+                "Psychology and Psychologists",
+                "Depression (Mental)",
+                "Content Type: Personal Profile",
+                "Research"
+            ],
+            "org_facet": [
+                "University of Michigan"
+            ],
+            "per_facet": [
+                "Brickman, Philip (1943-82)"
+            ],
+            "geo_facet": [
+                "Ann Arbor (Mich)"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Mark Pernice",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/29/opinion/sunday/24Brickman/24Brickman-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/29/opinion/sunday/24Brickman/24Brickman-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/29/opinion/sunday/24Brickman/24Brickman-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/15e7ebd9-29a4-5c41-be25-bae1ecbd14de",
+            "url": "https://www.nytimes.com/2020/11/27/opinion/trump-democrats-coronavirus.html",
+            "id": 100000007469120,
+            "asset_id": 100000007469120,
+            "source": "New York Times",
+            "published_date": "2020-11-27",
+            "updated": "2020-11-30 02:02:12",
+            "section": "Opinion",
+            "subsection": "",
+            "nytdsection": "opinion",
+            "adx_keywords": "Presidential Election of 2020;Voting and Voters;Polls and Public Opinion;Coronavirus (2019-nCoV);United States Economy;United States Politics and Government;Trump, Donald J;Biden, Joseph R Jr;Democratic Party;Republican Party",
+            "column": null,
+            "byline": "By Will Wilkinson",
+            "type": "Article",
+            "title": "Why Did So Many Americans Vote for Trump?",
+            "abstract": "To the dismay of Democrats, the president\u2019s strategy of ignoring the pandemic mostly worked for Republicans.",
+            "des_facet": [
+                "Presidential Election of 2020",
+                "Voting and Voters",
+                "Polls and Public Opinion",
+                "Coronavirus (2019-nCoV)",
+                "United States Economy",
+                "United States Politics and Government"
+            ],
+            "org_facet": [
+                "Democratic Party",
+                "Republican Party"
+            ],
+            "per_facet": [
+                "Trump, Donald J",
+                "Biden, Joseph R Jr"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Supporters of President Trump gathered outside the Walter Reed National Military Medical Center while he was being treated for Covid-19.",
+                    "copyright": "Damon Winter/The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/27/opinion/27wilkinsonWeb/27wilkinsonWeb-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/27/opinion/27wilkinsonWeb/merlin_178067448_508c4e3f-9b53-4bfe-9c42-b82761536375-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/27/opinion/27wilkinsonWeb/merlin_178067448_508c4e3f-9b53-4bfe-9c42-b82761536375-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/26b0ccab-bc0d-5908-9b73-583ebd498e94",
+            "url": "https://www.nytimes.com/2020/10/31/science/rams-head-squid-cephalopod.html",
+            "id": 100000007424795,
+            "asset_id": 100000007424795,
+            "source": "New York Times",
+            "published_date": "2020-10-31",
+            "updated": "2020-11-05 09:05:12",
+            "section": "Science",
+            "subsection": "",
+            "nytdsection": "science",
+            "adx_keywords": "Squid;Fish and Other Marine Life;Biology and Biochemistry;Reefs;Marine Biology;your-feed-science;your-feed-animals",
+            "column": null,
+            "byline": "By Sabrina Imbler",
+            "type": "Article",
+            "title": "\u2018They\u2019re Calling You on the Squid Phone\u2019",
+            "abstract": "Cephalopod researchers were surprised by the sighting of a ram\u2019s horn squid, a peculiar animal never before filmed in its natural environment.",
+            "des_facet": [
+                "Squid",
+                "Fish and Other Marine Life",
+                "Biology and Biochemistry",
+                "Reefs",
+                "Marine Biology",
+                "your-feed-science",
+                "your-feed-animals"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/8314ff1b-69b0-5fb0-9704-9970c11a9086",
+            "url": "https://www.nytimes.com/2020/11/03/arts/television/chess-queens-gambit.html",
+            "id": 100000007428456,
+            "asset_id": 100000007428456,
+            "source": "New York Times",
+            "published_date": "2020-11-03",
+            "updated": "2020-11-23 11:22:02",
+            "section": "Arts",
+            "subsection": "Television",
+            "nytdsection": "arts",
+            "adx_keywords": "Chess;Television;Fischer, Bobby;Taylor-Joy, Anya;Tevis, Walter;Kasparov, Garry;Netflix Inc;United States Chess Federation",
+            "column": null,
+            "byline": "By Dylan Loeb McClain",
+            "type": "Article",
+            "title": "I\u2019m a Chess Expert. Here\u2019s What \u2018The Queen\u2019s Gambit\u2019 Gets Right",
+            "abstract": "The Netflix show about a female chess prodigy in the 1950s and \u201960s is one of the best screen adaptations of the game yet. But there are a few wrong moves.",
+            "des_facet": [
+                "Chess",
+                "Television"
+            ],
+            "org_facet": [
+                "Netflix Inc",
+                "United States Chess Federation"
+            ],
+            "per_facet": [
+                "Fischer, Bobby",
+                "Taylor-Joy, Anya",
+                "Tevis, Walter",
+                "Kasparov, Garry"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Beth Harmon (center) observes the action at a chess tournament in a scene from \u201cThe Queen\u2019s Gambit\u201d on Netflix; she is played by Anya Taylor-Joy.",
+                    "copyright": "Netflix",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/04/arts/03queens-gambit1/03queens-gambit1-thumbStandard-v2.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/04/arts/03queens-gambit1/03queens-gambit1-mediumThreeByTwo210-v2.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/04/arts/03queens-gambit1/03queens-gambit1-mediumThreeByTwo440-v2.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        }
+    ]
+}

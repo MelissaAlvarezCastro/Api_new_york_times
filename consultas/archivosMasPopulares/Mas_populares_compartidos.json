@@ -1,0 +1,1221 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2020 The New York Times Company.  All Rights Reserved.",
+    "num_results": 20,
+    "results": [
+        {
+            "uri": "nyt://article/e74bf800-4d6f-5d09-8404-0d5ac060263b",
+            "url": "https://www.nytimes.com/2020/11/07/us/politics/biden-election.html",
+            "id": 100000007435608,
+            "asset_id": 100000007435608,
+            "source": "New York Times",
+            "published_date": "2020-11-07",
+            "updated": "2020-11-18 09:50:53",
+            "section": "U.S.",
+            "subsection": "Politics",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Presidential Election of 2020;United States Politics and Government;internal-election-open;Biden, Joseph R Jr;Trump, Donald J;Harris, Kamala D;Democratic Party",
+            "column": null,
+            "byline": "By Jonathan Martin and Alexander Burns",
+            "type": "Article",
+            "title": "Biden Wins Presidency, Ending Four Tumultuous Years Under Trump",
+            "abstract": "Joseph R. Biden Jr. achieved victory offering a message of healing and unity. He will return to Washington facing a daunting set of crises.",
+            "des_facet": [
+                "Presidential Election of 2020",
+                "United States Politics and Government",
+                "internal-election-open"
+            ],
+            "org_facet": [
+                "Democratic Party"
+            ],
+            "per_facet": [
+                "Biden, Joseph R Jr",
+                "Trump, Donald J",
+                "Harris, Kamala D"
+            ],
+            "geo_facet": [],
+            "media": [],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/bc30dacc-2ef2-5e8f-83e9-ecdadb28a5da",
+            "url": "https://www.nytimes.com/2020/10/16/style/modern-love-he-married-a-sociopath-me.html",
+            "id": 100000007392836,
+            "asset_id": 100000007392836,
+            "source": "New York Times",
+            "published_date": "2020-10-16",
+            "updated": "2020-10-29 11:08:35",
+            "section": "Style",
+            "subsection": "",
+            "nytdsection": "style",
+            "adx_keywords": "Love (Emotion);Marriages;Lying;Dating and Relationships;Psychology and Psychologists",
+            "column": null,
+            "byline": "By Patric Gagne",
+            "type": "Article",
+            "title": "He Married a Sociopath: Me",
+            "abstract": "As a wife and a mother, I have learned how to tell the truth. Which is why I always know when my husband is lying.",
+            "des_facet": [
+                "Love (Emotion)",
+                "Marriages",
+                "Lying",
+                "Dating and Relationships",
+                "Psychology and Psychologists"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Brian Rea",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/10/18/fashion/18MODERN-GAGNE/18MODERN-GAGNE-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/10/18/fashion/18MODERN-GAGNE/18MODERN-GAGNE-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/10/18/fashion/18MODERN-GAGNE/18MODERN-GAGNE-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/d656074f-fe2e-501d-bf52-8386a7addecc",
+            "url": "https://www.nytimes.com/2020/11/25/opinion/meghan-markle-miscarriage.html",
+            "id": 100000007469162,
+            "asset_id": 100000007469162,
+            "source": "New York Times",
+            "published_date": "2020-11-25",
+            "updated": "2020-12-02 16:09:41",
+            "section": "Opinion",
+            "subsection": "",
+            "nytdsection": "opinion",
+            "adx_keywords": "Coronavirus (2019-nCoV);Social Conditions and Trends;Miscarriages;Grief (Emotion);Royal Families;Markle, Meghan;Great Britain",
+            "column": null,
+            "byline": "By Meghan, The Duchess of Sussex",
+            "type": "Article",
+            "title": "The Losses We Share",
+            "abstract": "Perhaps the path to healing begins with three simple words: Are you OK?",
+            "des_facet": [
+                "Coronavirus (2019-nCoV)",
+                "Social Conditions and Trends",
+                "Miscarriages",
+                "Grief (Emotion)",
+                "Royal Families"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Markle, Meghan"
+            ],
+            "geo_facet": [
+                "Great Britain"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Pool photo by Ian Volger",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/24/opinion/00mmPromo/00mmPromo-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/24/opinion/00mmPromo/00mmPromo-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/24/opinion/00mmPromo/00mmPromo-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/0e9f1b56-ca77-5200-bdf2-ee5bc42f4b54",
+            "url": "https://www.nytimes.com/2020/11/23/us/politics/biden-nominees.html",
+            "id": 100000007467947,
+            "asset_id": 100000007467947,
+            "source": "New York Times",
+            "published_date": "2020-11-23",
+            "updated": "2020-11-25 20:44:41",
+            "section": "U.S.",
+            "subsection": "Politics",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Appointments and Executive Changes;Presidential Transition (US);United States Politics and Government;United States International Relations;United Nations Framework Convention on Climate Change;Minorities;Women and Girls;Hispanic-Americans;Biden, Joseph R Jr;Yellen, Janet L;Mayorkas, Alejandro;Haines, Avril D;Kerry, John;Blinken, Antony J;Sullivan, Jacob J (1976- );Thomas-Greenfield, Linda;Treasury Department;State Department;Homeland Security Department;Office of the Director of National Intelligence;National Security Council",
+            "column": null,
+            "byline": "By Michael Crowley and Jeanna Smialek",
+            "type": "Article",
+            "title": "Biden Will Nominate First Women to Lead Treasury and Intelligence, and First Latino to Run Homeland Security",
+            "abstract": "John Kerry, the former secretary of state, will be the international climate czar, signaling the new administration\u2019s commitment to fighting climate change.",
+            "des_facet": [
+                "Appointments and Executive Changes",
+                "Presidential Transition (US)",
+                "United States Politics and Government",
+                "United States International Relations",
+                "United Nations Framework Convention on Climate Change",
+                "Minorities",
+                "Women and Girls",
+                "Hispanic-Americans"
+            ],
+            "org_facet": [
+                "Treasury Department",
+                "State Department",
+                "Homeland Security Department",
+                "Office of the Director of National Intelligence",
+                "National Security Council"
+            ],
+            "per_facet": [
+                "Biden, Joseph R Jr",
+                "Yellen, Janet L",
+                "Mayorkas, Alejandro",
+                "Haines, Avril D",
+                "Kerry, John",
+                "Blinken, Antony J",
+                "Sullivan, Jacob J (1976- )",
+                "Thomas-Greenfield, Linda"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Janet L. Yellen, the former Federal Reserve chair, will be thrust into negotiating for more aid with what is expected to be a divided Congress.",
+                    "copyright": "Lexey Swall for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/23/us/politics/23dc-biden-cabinet-yellin/merlin_129510059_c2272a86-3d2c-4048-b25f-78cd1cba6f9b-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/23/us/politics/23dc-biden-cabinet-yellin/merlin_129510059_c2272a86-3d2c-4048-b25f-78cd1cba6f9b-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/23/us/politics/23dc-biden-cabinet-yellin/merlin_129510059_c2272a86-3d2c-4048-b25f-78cd1cba6f9b-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/860765cd-1135-5d0e-b06e-80bda84917c9",
+            "url": "https://www.nytimes.com/2020/10/31/opinion/republicans-biden-taxes.html",
+            "id": 100000007398843,
+            "asset_id": 100000007398843,
+            "source": "New York Times",
+            "published_date": "2020-10-31",
+            "updated": "2020-11-01 18:03:58",
+            "section": "Opinion",
+            "subsection": "",
+            "nytdsection": "opinion",
+            "adx_keywords": "Tax Cuts and Jobs Act (2017);Federal Taxes (US);Income Tax;Income Inequality;United States Politics and Government;Trump, Donald J;Republican Party",
+            "column": null,
+            "byline": "By Joseph E. Stiglitz",
+            "type": "Article",
+            "title": "Republicans, Not Biden, Are About to Raise Your Taxes",
+            "abstract": "President Trump built in tax increases beginning in 2021, for nearly everyone but those at the very top.",
+            "des_facet": [
+                "Tax Cuts and Jobs Act (2017)",
+                "Federal Taxes (US)",
+                "Income Tax",
+                "Income Inequality",
+                "United States Politics and Government"
+            ],
+            "org_facet": [
+                "Republican Party"
+            ],
+            "per_facet": [
+                "Trump, Donald J"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Celebrating the 2017 tax act at the White House.",
+                    "copyright": "Doug Mills/The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/10/31/opinion/31stiglitz-01/31stiglitz-01-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/10/31/opinion/31stiglitz-01/merlin_131503458_8bf5be2c-e86a-43f7-86a8-e69d98307154-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/10/31/opinion/31stiglitz-01/merlin_131503458_8bf5be2c-e86a-43f7-86a8-e69d98307154-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/32f75689-40c6-52a8-9a47-f822a72fa7ad",
+            "url": "https://www.nytimes.com/2020/11/25/business/coronavirus-vaccine-astrazeneca-oxford.html",
+            "id": 100000007473549,
+            "asset_id": 100000007473549,
+            "source": "New York Times",
+            "published_date": "2020-11-25",
+            "updated": "2020-12-02 09:46:50",
+            "section": "Business",
+            "subsection": "",
+            "nytdsection": "business",
+            "adx_keywords": "Coronavirus (2019-nCoV);Vaccination and Immunization;Clinical Trials;Research;Regulation and Deregulation of Industry;AstraZeneca PLC;Oxford University;Food and Drug Administration",
+            "column": null,
+            "byline": "By Rebecca Robbins and Benjamin Mueller",
+            "type": "Article",
+            "title": "After Admitting Mistake, AstraZeneca Faces Difficult Questions About Its Vaccine",
+            "abstract": "Some trial participants only got a partial dose of AstraZeneca\u2019s vaccine. Experts said the company\u2019s spotty disclosures have eroded confidence.",
+            "des_facet": [
+                "Coronavirus (2019-nCoV)",
+                "Vaccination and Immunization",
+                "Clinical Trials",
+                "Research",
+                "Regulation and Deregulation of Industry"
+            ],
+            "org_facet": [
+                "AstraZeneca PLC",
+                "Oxford University",
+                "Food and Drug Administration"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "AstraZeneca and Oxford \u201cget a poor grade for transparency and rigor when it comes to the vaccine trial results they have reported,\u201d\u00a0said Natalie Dean, a biostatistician at the University of Florida.",
+                    "copyright": "Andrew Testa for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/25/business/25Virus-Astrazeneca-01/merlin_180213399_bccc9a12-821f-448b-bb02-f8f37ce4e5d7-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/25/business/25Virus-Astrazeneca-01/merlin_180213399_bccc9a12-821f-448b-bb02-f8f37ce4e5d7-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/25/business/25Virus-Astrazeneca-01/merlin_180213399_bccc9a12-821f-448b-bb02-f8f37ce4e5d7-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/04a4be08-34c6-5f5a-a31d-ea7d503ec9f0",
+            "url": "https://www.nytimes.com/2020/11/01/us/elections/trump-defends-texas-drivers-who-surrounded-biden-bus-while-the-presidents-supporters-block-traffic-in-new-york-and-new-jersey.html",
+            "id": 100000007427534,
+            "asset_id": 100000007427534,
+            "source": "New York Times",
+            "published_date": "2020-11-01",
+            "updated": "2020-11-02 08:41:58",
+            "section": "U.S.",
+            "subsection": "Elections",
+            "nytdsection": "u.s.",
+            "adx_keywords": "",
+            "column": null,
+            "byline": "By Neil Vigdor, Jesse McKinley, Emma G. Fitzsimmons, Sydney Ember, Annie Karni, Stephanie Saul and Dave Montgomery",
+            "type": "Article",
+            "title": "Trump defends Texas drivers who surrounded Biden bus, while the president\u2019s supporters block traffic in New York and New Jersey.",
+            "abstract": "",
+            "des_facet": [],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Trump supporters blocked the Governor Mario M. Cuomo Bridge on Sunday.",
+                    "copyright": "Stephanie Keith/Getty Images",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/01/us/01elections-briefing-trump-blockade/merlin_179418138_1d29c06b-dc34-4fe2-9751-7a15b5b8451d-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/01/us/01elections-briefing-trump-blockade/merlin_179418138_1d29c06b-dc34-4fe2-9751-7a15b5b8451d-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/01/us/01elections-briefing-trump-blockade/merlin_179418138_1d29c06b-dc34-4fe2-9751-7a15b5b8451d-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/77845a39-f036-520f-8cca-553c9d8274f6",
+            "url": "https://www.nytimes.com/2020/11/26/us/supreme-court-coronavirus-religion-new-york.html",
+            "id": 100000007463062,
+            "asset_id": 100000007463062,
+            "source": "New York Times",
+            "published_date": "2020-11-26",
+            "updated": "2020-11-26 14:14:52",
+            "section": "U.S.",
+            "subsection": "",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Suits and Litigation (Civil);Coronavirus (2019-nCoV);Decisions and Verdicts;Freedom of Religion;Shutdowns (Institutional);Places of Worship;Cuomo, Andrew M;Barrett, Amy Coney;Supreme Court (US);Roman Catholic Church;New York City",
+            "column": null,
+            "byline": "By Adam Liptak",
+            "type": "Article",
+            "title": "Splitting 5 to 4, Supreme Court Backs Religious Challenge to Cuomo\u2019s Virus Shutdown Order",
+            "abstract": "Justice Amy Coney Barrett played a decisive role in the decision, which took the opposite approach of earlier court rulings related to coronavirus restrictions in California and Nevada.",
+            "des_facet": [
+                "Suits and Litigation (Civil)",
+                "Coronavirus (2019-nCoV)",
+                "Decisions and Verdicts",
+                "Freedom of Religion",
+                "Shutdowns (Institutional)",
+                "Places of Worship"
+            ],
+            "org_facet": [
+                "Supreme Court (US)",
+                "Roman Catholic Church"
+            ],
+            "per_facet": [
+                "Cuomo, Andrew M",
+                "Barrett, Amy Coney"
+            ],
+            "geo_facet": [
+                "New York City"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Easter Mass was live-streamed from a mostly empty Catholic church in Brooklyn in April.",
+                    "copyright": "Ryan Christopher Jones for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/19/us/politics/00dc-scotus-church/00dc-scotus-church-thumbStandard-v2.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/19/us/politics/00dc-scotus-church/00dc-scotus-church-mediumThreeByTwo210-v3.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/19/us/politics/00dc-scotus-church/00dc-scotus-church-mediumThreeByTwo440-v3.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/09a0a344-c191-5dae-ac28-b06673caf9e3",
+            "url": "https://www.nytimes.com/2020/11/13/us/politics/biden-education-devos.html",
+            "id": 100000007449343,
+            "asset_id": 100000007449343,
+            "source": "New York Times",
+            "published_date": "2020-11-13",
+            "updated": "2020-11-14 16:29:41",
+            "section": "U.S.",
+            "subsection": "Politics",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Education;Education (K-12);Colleges and Universities;Coronavirus Reopenings;Presidential Transition (US);United States Politics and Government;Biden, Joseph R Jr;DeVos, Elizabeth (1958- );Trump, Donald J;Education Department (US)",
+            "column": null,
+            "byline": "By Erica L. Green",
+            "type": "Article",
+            "title": "Biden\u2019s Education Department Will Move Fast to Reverse Betsy DeVos\u2019s Policies",
+            "abstract": "President-elect Joseph R. Biden Jr. has presented an education agenda that is starkly different from the Trump era, beginning with a far more cautious approach to school reopenings.",
+            "des_facet": [
+                "Education",
+                "Education (K-12)",
+                "Colleges and Universities",
+                "Coronavirus Reopenings",
+                "Presidential Transition (US)",
+                "United States Politics and Government"
+            ],
+            "org_facet": [
+                "Education Department (US)"
+            ],
+            "per_facet": [
+                "Biden, Joseph R Jr",
+                "DeVos, Elizabeth (1958- )",
+                "Trump, Donald J"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Education Secretary Betsy DeVos, center, set out to reduce the Education Department\u2019s footprint by proposing cuts to public school funding and narrowing the department\u2019s enforcement role of federal education laws and civil rights.",
+                    "copyright": "Matt York/Associated Press",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/13/us/politics/13dc-biden-education-1/merlin_178589814_47dfe4af-57f8-49d9-821c-ea36c2068223-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/13/us/politics/13dc-biden-education-1/merlin_178589814_47dfe4af-57f8-49d9-821c-ea36c2068223-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/13/us/politics/13dc-biden-education-1/merlin_178589814_47dfe4af-57f8-49d9-821c-ea36c2068223-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/98e31a6a-1107-546f-a68d-36df13ce9b24",
+            "url": "https://www.nytimes.com/2020/11/19/style/rudy-giuliani-hair.html",
+            "id": 100000007463764,
+            "asset_id": 100000007463764,
+            "source": "New York Times",
+            "published_date": "2020-11-19",
+            "updated": "2020-11-24 10:32:42",
+            "section": "Style",
+            "subsection": "",
+            "nytdsection": "style",
+            "adx_keywords": "Dyes and Dyestuffs;Hair;Giuliani, Rudolph W",
+            "column": null,
+            "byline": "By Jonah Engel Bromwich",
+            "type": "Article",
+            "title": "Whatever It Is, It\u2019s Probably Not Hair Dye",
+            "abstract": "Hairdressers weigh in on Rudy Giuliani\u2019s drip problem.",
+            "des_facet": [
+                "Dyes and Dyestuffs",
+                "Hair"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Giuliani, Rudolph W"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Rudolph W. Giuliani, President Trump\u2019s personal attorney, at a news conference on Thursday about the results of the 2020 presidential election.",
+                    "copyright": "Jonathan Ernst/Reuters",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/19/fashion/19rudy-hair/19rudy-hair-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/19/fashion/19rudy-hair/19rudy-hair-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/19/fashion/19rudy-hair/19rudy-hair-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/394497c4-e159-5e93-a9ab-36e62dccb899",
+            "url": "https://www.nytimes.com/2020/11/17/health/coronavirus-immunity.html",
+            "id": 100000007456461,
+            "asset_id": 100000007456461,
+            "source": "New York Times",
+            "published_date": "2020-11-17",
+            "updated": "2020-11-27 09:29:30",
+            "section": "Health",
+            "subsection": "",
+            "nytdsection": "health",
+            "adx_keywords": "Immune System;Coronavirus (2019-nCoV);Antibodies;Vaccination and Immunization;SARS (Severe Acute Respiratory Syndrome);your-feed-science;La Jolla (Calif)",
+            "column": null,
+            "byline": "By Apoorva Mandavilli",
+            "type": "Article",
+            "title": "Immunity to the Coronavirus May Last Years, New Data Hint",
+            "abstract": "Blood samples from recovered patients suggest a powerful, long-lasting immune response, researchers reported.",
+            "des_facet": [
+                "Immune System",
+                "Coronavirus (2019-nCoV)",
+                "Antibodies",
+                "Vaccination and Immunization",
+                "SARS (Severe Acute Respiratory Syndrome)",
+                "your-feed-science"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "La Jolla (Calif)"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Blood was drawn for a Covid-19 antibody test at the University of Arizona in Tucson earlier this year.",
+                    "copyright": "Cheney Orr/Reuters",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/17/science/17VIRUS-IMMUNE1/17VIRUS-IMMUNE1-thumbStandard-v2.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/17/science/17VIRUS-IMMUNE1/17VIRUS-IMMUNE1-mediumThreeByTwo210-v2.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/17/science/17VIRUS-IMMUNE1/17VIRUS-IMMUNE1-mediumThreeByTwo440-v2.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/c308bd4b-0f8d-52e9-907c-deaacaf72f6e",
+            "url": "https://www.nytimes.com/2020/11/09/us/politics/emily-murphy-trump-biden.html",
+            "id": 100000007444761,
+            "asset_id": 100000007444761,
+            "source": "New York Times",
+            "published_date": "2020-11-09",
+            "updated": "2020-11-10 14:33:37",
+            "section": "U.S.",
+            "subsection": "Politics",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Presidential Election of 2020;United States Politics and Government;Presidential Transition (US);Murphy, Emily W (1974- );Trump, Donald J;Biden, Joseph R Jr;General Services Administration",
+            "column": null,
+            "byline": "By Michael D. Shear, Maggie Haberman and Michael Crowley",
+            "type": "Article",
+            "title": "Trump Appointee Stands Between Biden\u2019s Team and a Smooth Transition",
+            "abstract": "Emily W. Murphy, the administrator of the General Services Administration, must formally recognize President-elect Joseph R. Biden Jr. for the transfer of power to begin.",
+            "des_facet": [
+                "Presidential Election of 2020",
+                "United States Politics and Government",
+                "Presidential Transition (US)"
+            ],
+            "org_facet": [
+                "General Services Administration"
+            ],
+            "per_facet": [
+                "Murphy, Emily W (1974- )",
+                "Trump, Donald J",
+                "Biden, Joseph R Jr"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Emily W. Murphy has the legal authority to begin the transition, releasing the $6.6 million in federal funds budgeted for the effort, making office space available and empowering team members to visit agency offices and request information.",
+                    "copyright": "Sarah Silbiger/The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/09/us/politics/09dc-murphy/09dc-murphy-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/09/us/politics/09dc-murphy/merlin_152007657_3889200a-d1e0-40e3-a71a-6b1045ab0384-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/09/us/politics/09dc-murphy/merlin_152007657_3889200a-d1e0-40e3-a71a-6b1045ab0384-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/d69f4b25-5e2c-527f-b481-77ce3fadfb00",
+            "url": "https://www.nytimes.com/2020/11/18/health/pfizer-covid-vaccine.html",
+            "id": 100000007454844,
+            "asset_id": 100000007454844,
+            "source": "New York Times",
+            "published_date": "2020-11-18",
+            "updated": "2020-12-02 10:48:01",
+            "section": "Health",
+            "subsection": "",
+            "nytdsection": "health",
+            "adx_keywords": "your-feed-science;Clinical Trials;Vaccination and Immunization;Drugs (Pharmaceuticals);Coronavirus (2019-nCoV);RNA (Ribonucleic Acid);your-feed-healthcare;BioNTech SE;Pfizer Inc;Food and Drug Administration;Moderna Inc",
+            "column": null,
+            "byline": "By Katie Thomas",
+            "type": "Article",
+            "title": "New Pfizer Results: Coronavirus Vaccine Is Safe and 95% Effective",
+            "abstract": "The company said it planned to apply for emergency approval from the Food and Drug Administration \u201cwithin days.\u201d",
+            "des_facet": [
+                "your-feed-science",
+                "Clinical Trials",
+                "Vaccination and Immunization",
+                "Drugs (Pharmaceuticals)",
+                "Coronavirus (2019-nCoV)",
+                "RNA (Ribonucleic Acid)",
+                "your-feed-healthcare"
+            ],
+            "org_facet": [
+                "BioNTech SE",
+                "Pfizer Inc",
+                "Food and Drug Administration",
+                "Moderna Inc"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Pfizer and BioNTech\u2019s trial has shattered all speed records for vaccine development.",
+                    "copyright": "Pfizer, via Reuters",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/17/science/00HFO-PFIZER1/00HFO-PFIZER1-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/17/science/00HFO-PFIZER1/00HFO-PFIZER1-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/17/science/00HFO-PFIZER1/00HFO-PFIZER1-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/23714652-8007-597e-9f91-929261c8967b",
+            "url": "https://www.nytimes.com/2020/11/24/obituaries/honestie-hodges-dead-coronavirus.html",
+            "id": 100000007471009,
+            "asset_id": 100000007471009,
+            "source": "New York Times",
+            "published_date": "2020-11-24",
+            "updated": "2020-11-26 14:31:17",
+            "section": "Obituaries",
+            "subsection": "",
+            "nytdsection": "obituaries",
+            "adx_keywords": "Deaths (Obituaries);Coronavirus (2019-nCoV);Police;Hodges, Honestie;Grand Rapids (Mich)",
+            "column": null,
+            "byline": "By Glenn Rifkin",
+            "type": "Article",
+            "title": "Honestie Hodges, Whose Handcuffing Changed Police Policy, Is Dead at 14",
+            "abstract": "Honestie\u2019s handcuffing by the police in Grand Rapids, Mich., caused a national uproar and led to a new law enforcement policy on dealing with youths. Honestie died of Covid-19.",
+            "des_facet": [
+                "Deaths (Obituaries)",
+                "Coronavirus (2019-nCoV)",
+                "Police"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Hodges, Honestie"
+            ],
+            "geo_facet": [
+                "Grand Rapids (Mich)"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Honestie Hodges, in a recent photo.",
+                    "copyright": "via Hodges family",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/26/obituaries/24Hodges1/merlin_180402324_0fca5010-1e6a-4f3b-9a31-ec417436ec58-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/26/obituaries/24Hodges1/merlin_180402324_0fca5010-1e6a-4f3b-9a31-ec417436ec58-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/26/obituaries/24Hodges1/merlin_180402324_0fca5010-1e6a-4f3b-9a31-ec417436ec58-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/403637d5-d8f5-50be-ad38-417d13c15f23",
+            "url": "https://www.nytimes.com/2020/11/18/world/asia/covid-cleaning.html",
+            "id": 100000007366844,
+            "asset_id": 100000007366844,
+            "source": "New York Times",
+            "published_date": "2020-11-18",
+            "updated": "2020-11-23 09:18:26",
+            "section": "World",
+            "subsection": "Asia Pacific",
+            "nytdsection": "world",
+            "adx_keywords": "Coronavirus Risks and Safety Concerns;Coronavirus (2019-nCoV);Cleaning Services;Hygiene and Cleanliness;Hong Kong",
+            "column": null,
+            "byline": "By Mike Ives and Apoorva Mandavilli",
+            "type": "Article",
+            "title": "The Coronavirus Is Airborne Indoors. Why Are We Still Scrubbing Surfaces?",
+            "abstract": "Scientists who initially warned about contaminated surfaces now say that the virus spreads primarily through inhaled droplets, and that there is little to no evidence that deep cleaning mitigates the threat indoors.",
+            "des_facet": [
+                "Coronavirus Risks and Safety Concerns",
+                "Coronavirus (2019-nCoV)",
+                "Cleaning Services",
+                "Hygiene and Cleanliness"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Hong Kong"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "People buying disinfectant at a shopping mall in Hong Kong.",
+                    "copyright": "Lam Yik Fei for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/21/world/19virus-hk-hygiene03/19virus-hk-hygiene03-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/21/world/19virus-hk-hygiene03/merlin_180083316_747a5b09-7aff-43df-8741-786497b990bb-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/21/world/19virus-hk-hygiene03/merlin_180083316_747a5b09-7aff-43df-8741-786497b990bb-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/14f425b6-fb21-59a4-84e7-00e378f21dc9",
+            "url": "https://www.nytimes.com/2020/11/13/business/porter-wright-trump-pennsylvania.html",
+            "id": 100000007452986,
+            "asset_id": 100000007452986,
+            "source": "New York Times",
+            "published_date": "2020-11-13",
+            "updated": "2020-11-14 10:36:00",
+            "section": "Business",
+            "subsection": "",
+            "nytdsection": "business",
+            "adx_keywords": "Presidential Election of 2020;Suits and Litigation (Civil);Legal Profession;United States Politics and Government;Biden, Joseph R Jr;Trump, Donald J;Porter Wright Morris & Arthur LLP;Jones Day",
+            "column": null,
+            "byline": "By Rachel Abrams, David Enrich and Jessica Silver-Greenberg",
+            "type": "Article",
+            "title": "Once Loyal to Trump, Law Firms Pull Back From His Election Fight",
+            "abstract": "Porter Wright withdrew from a federal lawsuit it had filed days earlier. A top Jones Day lawyer said the firm wouldn\u2019t take on new election litigation.",
+            "des_facet": [
+                "Presidential Election of 2020",
+                "Suits and Litigation (Civil)",
+                "Legal Profession",
+                "United States Politics and Government"
+            ],
+            "org_facet": [
+                "Porter Wright Morris & Arthur LLP",
+                "Jones Day"
+            ],
+            "per_facet": [
+                "Biden, Joseph R Jr",
+                "Trump, Donald J"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Supporters of President Trump gathered outside the Pennsylvania Convention Center in Philadelphia on Sunday, a day after the presidential election was called for Joseph R. Biden Jr.",
+                    "copyright": "Victor J. Blue for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/13/business/13porterwright/13porterwright-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/13/business/13porterwright/13porterwright-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/13/business/13porterwright/13porterwright-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/6bb97b0e-475e-5888-a484-962f2c241b3a",
+            "url": "https://www.nytimes.com/2020/11/28/us/monolith-utah-disappeared.html",
+            "id": 100000007477435,
+            "asset_id": 100000007477435,
+            "source": "New York Times",
+            "published_date": "2020-11-28",
+            "updated": "2020-12-01 07:57:50",
+            "section": "U.S.",
+            "subsection": "",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Art;Sculpture;Bureau of Land Management;Utah",
+            "column": null,
+            "byline": "By Bryan Pietsch",
+            "type": "Article",
+            "title": "That Mysterious Monolith in the Utah Desert? It\u2019s Gone, Officials Say",
+            "abstract": "The metal structure has been removed, Utah officials said on Saturday, adding that they had not taken it down.",
+            "des_facet": [
+                "Art",
+                "Sculpture"
+            ],
+            "org_facet": [
+                "Bureau of Land Management"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Utah"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A metal object was found in the remote Utah desert last week by state workers.",
+                    "copyright": "Utah Department of Public Safety, via Associated Press",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/28/us/politics/28xp-monolith-photo/28xp-monolith-photo-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/28/us/politics/28xp-monolith-photo/28xp-monolith-photo-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/28/us/politics/28xp-monolith-photo/28xp-monolith-photo-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/3b5de28f-421b-5fda-bc25-e48aa9851386",
+            "url": "https://www.nytimes.com/2020/11/09/health/covid-vaccine-pfizer.html",
+            "id": 100000007414429,
+            "asset_id": 100000007414429,
+            "source": "New York Times",
+            "published_date": "2020-11-09",
+            "updated": "2020-12-02 09:58:55",
+            "section": "Health",
+            "subsection": "",
+            "nytdsection": "health",
+            "adx_keywords": "Clinical Trials;Vaccination and Immunization;Coronavirus (2019-nCoV);your-feed-healthcare;your-feed-science;Bourla, Albert;BioNTech SE;Pfizer Inc",
+            "column": null,
+            "byline": "By Katie Thomas, David Gelles and Carl Zimmer",
+            "type": "Article",
+            "title": "Pfizer\u2019s Early Data Shows Vaccine Is More Than 90% Effective",
+            "abstract": "Pfizer announced positive early results from its coronavirus vaccine trial, cementing the lead in a frenzied global race that has unfolded at record-breaking speed.",
+            "des_facet": [
+                "Clinical Trials",
+                "Vaccination and Immunization",
+                "Coronavirus (2019-nCoV)",
+                "your-feed-healthcare",
+                "your-feed-science"
+            ],
+            "org_facet": [
+                "BioNTech SE",
+                "Pfizer Inc"
+            ],
+            "per_facet": [
+                "Bourla, Albert"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A volunteer in Pfizer\u2019s clinical trial was vaccinated this month at Cincinnati Children\u2019s Hospital Medical Center.",
+                    "copyright": "Cincinnati Children\u2019s Hospital Medical Center, via Associated Press",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/10/26/science/00HFO-PFIZER-DATA1/00HFO-PFIZER-DATA1-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/10/26/science/00HFO-PFIZER-DATA1/00HFO-PFIZER-DATA1-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/10/26/science/00HFO-PFIZER-DATA1/00HFO-PFIZER-DATA1-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/406907aa-cd83-5fdd-a34b-cae37788f5cc",
+            "url": "https://www.nytimes.com/2020/11/08/arts/television/alex-trebek-dead.html",
+            "id": 100000006772500,
+            "asset_id": 100000006772500,
+            "source": "New York Times",
+            "published_date": "2020-11-08",
+            "updated": "2020-11-09 14:31:36",
+            "section": "Arts",
+            "subsection": "Television",
+            "nytdsection": "arts",
+            "adx_keywords": "Deaths (Obituaries);Television;Records and Achievements;Contests and Prizes;Trebek, Alex",
+            "column": null,
+            "byline": "By Katharine Q. Seelye",
+            "type": "Article",
+            "title": "Alex Trebek, Longtime Host of \u2018Jeopardy!,\u2019 Dies at 80",
+            "abstract": "A good host, he once said, could set his ego aside and let contestants be all they could be. But he let them know when he thought they missed easy answers.",
+            "des_facet": [
+                "Deaths (Obituaries)",
+                "Television",
+                "Records and Achievements",
+                "Contests and Prizes"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Trebek, Alex"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Alex Trebek in 2010 on the set of \u201cJeopardy!\u201d As the show\u2019s host, Mr. Trebek was the essence of durability.",
+                    "copyright": "Amanda Edwards/Getty Images",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2019/10/16/obituaries/00Trebeck1/00Trebeck1-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/10/16/obituaries/00Trebeck1/00Trebeck1-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/10/16/obituaries/00Trebeck1/00Trebeck1-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/b910c39a-6f7e-5517-83a1-39ebddc94e90",
+            "url": "https://www.nytimes.com/2020/11/09/business/jones-day-trump-election-lawsuits.html",
+            "id": 100000007445235,
+            "asset_id": 100000007445235,
+            "source": "New York Times",
+            "published_date": "2020-11-09",
+            "updated": "2020-11-13 09:48:52",
+            "section": "Business",
+            "subsection": "",
+            "nytdsection": "business",
+            "adx_keywords": "Presidential Election of 2020;United States Politics and Government;Legal Profession;Suits and Litigation (Civil);Appointments and Executive Changes;McGahn, Donald F II;Trump, Donald J;Porter Wright Morris & Arthur LLP;Jones Day;Pennsylvania;Cleveland (Ohio);Columbus (Ohio)",
+            "column": null,
+            "byline": "By Jessica Silver-Greenberg, Rachel Abrams and David Enrich",
+            "type": "Article",
+            "title": "Growing Discomfort at Law Firms Representing Trump in Election Lawsuits",
+            "abstract": "Some lawyers at Jones Day and Porter Wright, which have filed suits about the 2020 vote, said they were worried about undermining the electoral system.",
+            "des_facet": [
+                "Presidential Election of 2020",
+                "United States Politics and Government",
+                "Legal Profession",
+                "Suits and Litigation (Civil)",
+                "Appointments and Executive Changes"
+            ],
+            "org_facet": [
+                "Porter Wright Morris & Arthur LLP",
+                "Jones Day"
+            ],
+            "per_facet": [
+                "McGahn, Donald F II",
+                "Trump, Donald J"
+            ],
+            "geo_facet": [
+                "Pennsylvania",
+                "Cleveland (Ohio)",
+                "Columbus (Ohio)"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Donald F. McGahn II, a partner at Jones Day, appeared onstage at a Trump event in February 2016.",
+                    "copyright": "Joe Raedle/Getty Images",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/09/business/09JonesDay-01/09JonesDay-01-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/09/business/09JonesDay-01/09JonesDay-01-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/11/09/business/09JonesDay-01/09JonesDay-01-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        }
+    ]
+}
