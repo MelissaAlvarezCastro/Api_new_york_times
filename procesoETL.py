@@ -19,7 +19,7 @@ def executeArchivoMensual(client, name_bucket, list_mensual):
         data.update({
             'end_point': 'https://api.nytimes.com/svc/archive/v1/{year}/{month}.json',
             'origin': 'New York Times APIs',
-            'date_query': 'Hora Bucket Ultima Modificacion', #Asociar hora bucket
+            'date_query': ruta['LastModified'], #Asociar hora bucket
             'date_warehouse': date,
             'num_docs': len(data['response']['docs']),
         })
@@ -29,7 +29,7 @@ def executeArchivoMensual(client, name_bucket, list_mensual):
             i.update({
                 'end_point': 'https://api.nytimes.com/svc/archive/v1/{year}/{month}.json',
                 'origin': 'New York Times APIs',
-                'date_query': 'Hora Bucket Ultima Modificacion',  # Asociar hora bucket
+                'date_query': ruta['LastModified'], #Asociar hora bucket
                 'date_warehouse': date,
             })
 
@@ -60,7 +60,7 @@ def executeListName(client, name_bucket, list_name):
         data.update({
             'end_point': 'https://api.nytimes.com/svc/books/v3/lists/names.json',
             'origin': 'New York Times APIs',
-            'date_query': 'Hora Bucket Ultima Modificacion',  # Asociar hora bucket
+            'date_query': ruta['LastModified'], #Asociar hora bucket
             'date_warehouse': date,
         })
 
@@ -69,7 +69,7 @@ def executeListName(client, name_bucket, list_name):
             i.update({
                 'end_point': 'https://api.nytimes.com/svc/archive/v1/{year}/{month}.json',
                 'origin': 'New York Times APIs',
-                'date_query': 'Hora Bucket Ultima Modificacion',  # Asociar hora bucket
+                'date_query': ruta['LastModified'], #Asociar hora bucket
                 'date_warehouse': date,
             })
 
@@ -100,7 +100,7 @@ def executeMasPopulares(client, name_bucket, list_populares):
         data.update({
             'end_point': 'https://api.nytimes.com/svc/mostpopular/v2/{emailed||shared}.json',
             'origin': 'New York Times APIs',
-            'date_query': 'Hora Bucket Ultima Modificacion',  # Asociar hora bucket
+            'date_query': ruta['LastModified'], #Asociar hora bucket
             'date_warehouse': date,
         })
 
@@ -109,7 +109,7 @@ def executeMasPopulares(client, name_bucket, list_populares):
             i.update({
                 'end_point': 'https://api.nytimes.com/svc/mostpopular/v2/{emailed||shared}.json',
                 'origin': 'New York Times APIs',
-                'date_query': 'Hora Bucket Ultima Modificacion',  # Asociar hora bucket
+                'date_query': ruta['LastModified'], #Asociar hora bucket
                 'date_warehouse': date,
             })
 
@@ -142,7 +142,7 @@ def executePublicados(client, name_bucket, list_publicados):
         data.update({
             'end_point': 'https://api.nytimes.com/svc/books/v3/lists/overview.json',
             'origin': 'New York Times APIs',
-            'date_query': 'Hora Bucket Ultima Modificacion',  # Asociar hora bucket
+            'date_query': ruta['LastModified'], #Asociar hora bucket
             'date_warehouse': date,
         })
 
@@ -150,7 +150,7 @@ def executePublicados(client, name_bucket, list_publicados):
         data_docs.update({
             'end_point': 'https://api.nytimes.com/svc/books/v3/lists/overview.json',
             'origin': 'New York Times APIs',
-            'date_query': 'Hora Bucket Ultima Modificacion',  # Asociar hora bucket
+            'date_query': ruta['LastModified'], #Asociar hora bucket
             'date_warehouse': date,
         })
 
@@ -159,7 +159,7 @@ def executePublicados(client, name_bucket, list_publicados):
             i.update({
                 'end_point': 'https://api.nytimes.com/svc/books/v3/lists/overview.json',
                 'origin': 'New York Times APIs',
-                'date_query': 'Hora Bucket Ultima Modificacion',  # Asociar hora bucket
+                'date_query': ruta['LastModified'], #Asociar hora bucket
                 'date_warehouse': list,
                 'num_books': len(i['books']),
             })
@@ -169,7 +169,7 @@ def executePublicados(client, name_bucket, list_publicados):
                 j.update({
                     'end_point': 'https://api.nytimes.com/svc/books/v3/lists/overview.json',
                     'origin': 'New York Times APIs',
-                    'date_query': 'Hora Bucket Ultima Modificacion',  # Asociar hora bucket
+                    'date_query': ruta['LastModified'], #Asociar hora bucket
                     'date_warehouse': list,
                 })
 
