@@ -221,19 +221,22 @@ if __name__ == "__main__":
         elif i['Key'].find ('archivosPublicado') >= 0:
             list_publicados.append(i)
 
-    archivosMensual, archivosMensual_docs = executeArchivoMensual(client, name_bucket, list_mensual)
-    listName, listName_results = executeListName(client, name_bucket, list_name)
-    masPopulares, masPopulares_results = executeMasPopulares(client, name_bucket, list_populares)
-    publicado, publicado_results, publicado_results_lists, publicado_results_lists_books = executePublicados(client, name_bucket, list_publicados)
-
     engine = create_engine('postgresql://postgres:12345678@database.cqsybfowumzl.us-east-2.rds.amazonaws.com:5432/postgres')
+
+    listName, listName_results = executeListName(client, name_bucket, list_name)
     listName.to_sql('name_length', con=engine, index=False)
     listName_results.to_sql('book_name', con=engine, index=False)
+
+    masPopulares, masPopulares_results = executeMasPopulares(client, name_bucket, list_populares)
     masPopulares.to_sql('popular_length', con=engine, index=False)
     masPopulares_results.to_sql('arcticle_popular', con=engine, index=False)
+
+    publicado, publicado_results, publicado_results_lists, publicado_results_lists_books = executePublicados(client,name_bucket,list_publicados)
     publicado.to_sql('publish_length', con=engine, index=False)
     publicado_results.to_sql('publish_date', con=engine, index=False)
     publicado_results_lists.to_sql('book_list', con=engine, index=False)
     publicado_results_lists_books.to_sql('publish_books', con=engine, index=False)
+
+    archivosMensual, archivosMensual_docs = executeArchivoMensual(client, name_bucket, list_mensual)
     archivosMensual.to_sql('archive_length', con=engine, index=False)
     archivosMensual_docs.to_sql('docs', con=engine, index=False)
