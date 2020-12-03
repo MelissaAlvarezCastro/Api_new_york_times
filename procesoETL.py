@@ -33,9 +33,9 @@ def executeArchivoMensual(client, name_bucket, list_mensual):
                 'date_warehouse': date,
             })
 
-    array_json.append(data)
-    for item in data_docs:
-        array_docs_json.append(item)
+        array_json.append(data)
+        for item in data_docs:
+            array_docs_json.append(item)
 
     data_df_archivosMensual = pd.DataFrame(array_json)
     data_to_db_archivosMensual = data_df_archivosMensual[['end_point','origin','date_query','date_warehouse','copyright','num_docs']]
@@ -160,7 +160,7 @@ def executePublicados(client, name_bucket, list_publicados):
                 'end_point': 'https://api.nytimes.com/svc/books/v3/lists/overview.json',
                 'origin': 'New York Times APIs',
                 'date_query': ruta['LastModified'], #Asociar hora bucket
-                'date_warehouse': list,
+                'date_warehouse': date,
                 'num_books': len(i['books']),
             })
 
@@ -170,7 +170,7 @@ def executePublicados(client, name_bucket, list_publicados):
                     'end_point': 'https://api.nytimes.com/svc/books/v3/lists/overview.json',
                     'origin': 'New York Times APIs',
                     'date_query': ruta['LastModified'], #Asociar hora bucket
-                    'date_warehouse': list,
+                    'date_warehouse': date,
                 })
 
         array_json.append(data)
