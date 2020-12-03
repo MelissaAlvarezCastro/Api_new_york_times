@@ -33,9 +33,9 @@ def executeArchivoMensual(client, name_bucket, list_mensual):
                 'date_warehouse': date,
             })
 
-        array_json.append(data)
-        for item in data_docs:
-            array_docs_json.append(item)
+    array_json.append(data)
+    for item in data_docs:
+        array_docs_json.append(item)
 
     data_df_archivosMensual = pd.DataFrame(array_json)
     data_to_db_archivosMensual = data_df_archivosMensual[['end_point','origin','date_query','date_warehouse','copyright','num_docs']]
